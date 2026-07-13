@@ -1,0 +1,1035 @@
+Date,Region,Product,Category,Campaign,Marketing_Channel,Quarter,Spend,Impressions,Clicks,Conversions,Conversion Rate,Revenue,CTR,CPC,ROI
+12/3/2023,North,Power Bank,Electronics,Social Media Boost Campaign,Email,Q1,4341.92,7948,208,49,24%,5957.79,0.0262,20.87,0.3722
+12/10/2023,West,Gym Gloves,Health & Fitness,New Product Launch,Social Media,Q1,3211.52,7790,886,41,5%,7313.16,0.1137,3.62,1.2772
+12/17/2023,East,Bluetooth Speaker,Electronics,Summer Sale Campaign,Search Engine,Q1,2828.02,5429,502,17,3%,5384.96,0.0925,5.63,0.9041
+12/24/2023,North,Yoga Mat,Health & Fitness,Loyalty Program Campaign,Direct Mail,Q3,1730.76,8184,821,33,4%,7941.68,0.1003,2.11,3.5886
+12/31/2023,South,Gaming Mouse,Electronics,Summer Sale Campaign,Direct Mail,Q2,4735.94,5473,761,45,6%,2492.35,0.139,6.22,-0.4737
+12/10/2023,West,Sports Jacket,Fashion,Search Engine Ads Campaign,Direct Mail,Q3,1451.91,3573,592,28,5%,18330.96,0.1657,2.45,11.6254
+12/17/2023,South,Mechanical Keyboard,Electronics,New Product Launch,Email,Q3,1339.96,2205,849,16,2%,8983.12,0.385,1.58,5.704
+1/21/2024,South,Mechanical Keyboard,Electronics,Influencer Marketing Campaign,Direct Mail,Q3,2387.81,4006,928,9,1%,2618.35,0.2317,2.57,0.0965
+1/28/2024,South,Yoga Pants,Fashion,Retargeting Campaign,Search Engine,Q4,2547.39,2428,514,31,6%,2195.26,0.2117,4.96,-0.1382
+2/4/2024,North,Yoga Pants,Fashion,New Product Launch,Email,Q1,3258.37,6139,843,34,4%,16217.39,0.1373,3.87,3.9771
+2/11/2024,North,Gaming Mouse,Electronics,Retargeting Campaign,Direct Mail,Q2,3091.34,4665,150,37,25%,18223.16,0.0322,20.61,4.8949
+2/18/2024,South,Gym Gloves,Health & Fitness,Retargeting Campaign,Social Media,Q4,1761.01,5688,315,21,7%,15528.62,0.0554,5.59,7.818
+2/25/2024,South,Resistance Bands,Health & Fitness,Retargeting Campaign,Social Media,Q4,2712.51,9938,859,2,0%,4735.08,0.0864,3.16,0.7456
+3/3/2024,South,Running Shoes,Fashion,New Product Launch,Social Media,Q1,1054.71,7302,670,28,4%,15020.08,0.0918,1.57,13.241
+3/10/2024,South,Power Bank,Electronics,Influencer Marketing Campaign,Social Media,Q3,4080.86,3958,336,20,6%,16097.73,0.0849,12.15,2.9447
+3/17/2024,South,Yoga Mat,Health & Fitness,Retargeting Campaign,Direct Mail,Q3,560.38,9916,916,50,5%,9119.65,0.0924,0.61,15.274
+3/24/2024,North,Resistance Bands,Health & Fitness,Seasonal Discount Campaign,Email,Q2,4938.96,7697,224,4,2%,8729.93,0.0291,22.05,0.7676
+3/31/2024,North,Multivitamins,Health & Fitness,Retargeting Campaign,Social Media,Q1,2740.13,1400,384,19,5%,15481.38,0.2743,7.14,4.6499
+4/7/2024,North,Sneakers,Fashion,Retargeting Campaign,Email,Q1,2876.66,1162,939,16,2%,8230.09,0.8081,3.06,1.861
+4/14/2024,North,Sports Jacket,Fashion,New Product Launch,Search Engine,Q1,4378.21,1137,941,35,4%,5826.28,0.8276,4.65,0.3307
+4/21/2024,East,Wireless Earbuds,Electronics,Flash Sale Campaign,Social Media,Q1,4941.79,7902,141,38,27%,13406.82,0.0178,35.05,1.7129
+4/28/2024,South,Protein Powder,Health & Fitness,Retargeting Campaign,Email,Q1,1376.02,4872,922,40,4%,6238.04,0.1892,1.49,3.5334
+5/5/2024,South,Wireless Earbuds,Electronics,Retargeting Campaign,Direct Mail,Q3,3324.53,7993,377,42,11%,8491.86,0.0472,8.82,1.5543
+5/12/2024,South,Yoga Mat,Health & Fitness,Loyalty Program Campaign,Search Engine,Q1,2318.27,3481,688,26,4%,2667.33,0.1976,3.37,0.1506
+5/19/2024,South,Yoga Pants,Fashion,Social Media Boost Campaign,Social Media,Q4,2417.89,8982,282,29,10%,10829.6,0.0314,8.57,3.4789
+5/26/2024,West,Yoga Pants,Fashion,Retargeting Campaign,Email,Q3,610.83,5841,357,45,13%,1134.52,0.0611,1.71,0.8573
+6/2/2024,South,Smart Watch,Electronics,Social Media Boost Campaign,Email,Q2,1203.33,5425,764,36,5%,2873.42,0.1408,1.58,1.3879
+6/9/2024,South,Hoodie,Fashion,Retargeting Campaign,Email,Q1,1532.29,8742,635,20,3%,5409.03,0.0726,2.41,2.53
+6/16/2024,South,Hoodie,Fashion,Retargeting Campaign,Email,Q1,3114.54,7818,441,39,9%,7945.99,0.0564,7.06,1.5513
+6/23/2024,East,Gym Gloves,Health & Fitness,Summer Sale Campaign,Search Engine,Q1,1321.6,1888,203,41,20%,5218.27,0.1075,6.51,2.9484
+6/30/2024,East,Smart Watch,Electronics,Retargeting Campaign,Direct Mail,Q4,2383.64,3052,287,36,13%,3515.7,0.094,8.31,0.4749
+7/7/2024,South,Gaming Mouse,Electronics,Search Engine Ads Campaign,Email,Q4,4165.55,5640,532,22,4%,8609.61,0.0943,7.83,1.0669
+7/14/2024,North,Bluetooth Speaker,Electronics,Summer Sale Campaign,Search Engine,Q4,3637.12,7365,709,12,2%,9941.12,0.0963,5.13,1.7332
+7/21/2024,North,Mechanical Keyboard,Electronics,Summer Sale Campaign,Social Media,Q4,4462.95,6323,504,25,5%,15075.84,0.0797,8.86,2.378
+7/28/2024,South,Laptop Stand,Electronics,Summer Sale Campaign,Search Engine,Q2,2009.35,1147,543,16,3%,16548.38,0.4734,3.7,7.2357
+8/4/2024,West,Yoga Pants,Fashion,Social Media Boost Campaign,Direct Mail,Q1,3950.09,8663,227,43,19%,9338.99,0.0262,17.4,1.3642
+8/11/2024,West,Yoga Mat,Health & Fitness,Summer Sale Campaign,Search Engine,Q1,1287.89,1530,781,19,2%,18695.55,0.5105,1.65,13.5164
+8/18/2024,North,Yoga Pants,Fashion,Retargeting Campaign,Social Media,Q1,3378.78,5196,723,42,6%,1023.81,0.1391,4.67,-0.697
+8/25/2024,North,Casual T-Shirt,Fashion,Seasonal Discount Campaign,Email,Q4,3632.86,8716,259,44,17%,15651.6,0.0297,14.03,3.3083
+9/1/2024,West,Yoga Pants,Fashion,Summer Sale Campaign,Direct Mail,Q1,1154.84,4205,538,3,1%,4112.01,0.1279,2.15,2.5607
+9/8/2024,South,Gaming Mouse,Electronics,Retargeting Campaign,Social Media,Q4,1862.04,3569,774,11,1%,8787.16,0.2169,2.41,3.7191
+9/15/2024,West,Bluetooth Speaker,Electronics,Retargeting Campaign,Email,Q3,1555.73,9432,623,29,5%,18952.14,0.0661,2.5,11.1822
+9/22/2024,West,Casual T-Shirt,Fashion,Retargeting Campaign,Social Media,Q2,3973.06,4187,619,5,1%,13059.27,0.1478,6.42,2.287
+9/29/2024,North,Fitness Tracker,Electronics,Retargeting Campaign,Direct Mail,Q2,3970.41,1114,869,46,5%,6219.6,0.7801,4.57,0.5665
+10/6/2024,North,Bluetooth Speaker,Electronics,New Product Launch,Direct Mail,Q2,2946.93,9307,583,39,7%,5436.82,0.0626,5.05,0.8449
+10/13/2024,South,Sports Jacket,Fashion,Retargeting Campaign,Direct Mail,Q4,2916.69,2060,172,17,10%,11932.58,0.0835,16.96,3.0911
+10/20/2024,South,Power Bank,Electronics,New Product Launch,Email,Q1,3636.93,6856,352,26,7%,18906.16,0.0513,10.33,4.1984
+10/27/2024,South,Wireless Earbuds,Electronics,Summer Sale Campaign,Search Engine,Q3,3540.6,8400,979,28,3%,17279.68,0.1165,3.62,3.8804
+11/3/2024,South,Mechanical Keyboard,Electronics,New Product Launch,Social Media,Q1,950.21,9942,530,31,6%,12641.66,0.0533,1.79,12.3041
+11/10/2024,North,Bluetooth Speaker,Electronics,Summer Sale Campaign,Social Media,Q4,2056.67,5688,583,49,8%,14541.76,0.1025,3.53,6.0705
+11/17/2024,West,Gym Gloves,Health & Fitness,New Product Launch,Email,Q1,2756.2,5013,664,31,5%,6824.82,0.1325,4.15,1.4762
+8/18/2024,North,Sports Jacket,Fashion,New Product Launch,Email,Q2,1328.71,1941,177,1,1%,9215.72,0.0912,7.51,5.9358
+8/25/2024,North,Bluetooth Speaker,Electronics,Retargeting Campaign,Email,Q1,1250,50000,2500,125,5%,18750,0.05,0.5,14
+9/1/2024,North,Smart Watch,Electronics,New Product Launch,Search Engine,Q1,3200,120000,4800,240,5%,36000,0.04,0.67,10.25
+9/8/2024,West,Sports Jacket,Fashion,Social Media Boost Campaign,Social Media,Q1,2800,95000,4750,190,4%,28500,0.05,0.59,9.18
+9/15/2024,South,Bluetooth Speaker,Electronics,Retargeting Campaign,Direct Mail,Q1,4100,60000,1800,90,5%,22500,0.03,2.28,4.49
+9/22/2024,North,Laptop Stand,Electronics,Social Media Boost Campaign,Search Engine,Q1,980,40000,2000,100,5%,15000,0.05,0.49,14.31
+9/29/2024,South,Resistance Bands,Health & Fitness,Loyalty Program Campaign,Email,Q1,2100,70000,3500,175,5%,26250,0.05,0.6,11.5
+10/6/2024,South,Yoga Mat,Health & Fitness,Loyalty Program Campaign,Search Engine,Q1,3400,110000,4400,220,5%,33000,0.04,0.77,8.71
+10/13/2024,West,Yoga Mat,Health & Fitness,Social Media Boost Campaign,Social Media,Q1,2950,88000,3520,176,5%,26400,0.04,0.84,7.95
+10/20/2024,North,Fitness Tracker,Electronics,Retargeting Campaign,Direct Mail,Q1,5000,55000,1650,82,5%,20500,0.03,3.03,3.1
+10/27/2024,South,Sneakers,Fashion,Summer Sale Campaign,Email,Q1,1750,60000,3000,150,5%,22500,0.05,0.58,11.86
+11/3/2024,West,Sneakers,Fashion,Seasonal Discount Campaign,Search Engine,Q1,2300,80000,3200,160,5%,24000,0.04,0.72,9.43
+11/10/2024,South,Gaming Mouse,Electronics,Social Media Boost Campaign,Social Media,Q2,3900,105000,4200,210,5%,31500,0.04,0.93,7.08
+11/17/2024,South,Fitness Tracker,Electronics,Social Media Boost Campaign,Direct Mail,Q2,4500,50000,1500,75,5%,18750,0.03,3,3.17
+4/16/2023,West,Sports Jacket,Fashion,Social Media Boost Campaign,Email,Q2,2200,72000,3600,180,5%,27000,0.05,0.61,11.27
+4/23/2023,South,Hoodie,Fashion,Seasonal Discount Campaign,Social Media,Q2,3100,92000,3680,184,5%,27600,0.04,0.84,7.9
+4/30/2023,South,Laptop Stand,Electronics,Summer Sale Campaign,Search Engine,Q2,2700,90000,3600,180,5%,27000,0.04,0.75,9
+5/7/2023,South,Gaming Mouse,Electronics,Summer Sale Campaign,Email,Q2,1850,65000,3250,162,5%,24375,0.05,0.57,12.18
+5/14/2023,South,Fitness Tracker,Electronics,New Product Launch,Direct Mail,Q2,6000,62000,1860,93,5%,23250,0.03,3.23,2.88
+5/21/2023,West,Bluetooth Speaker,Electronics,Retargeting Campaign,Search Engine,Q2,2100,75000,3000,150,5%,22500,0.04,0.7,9.71
+5/28/2023,South,Resistance Bands,Health & Fitness,New Product Launch,Social Media,Q2,3300,98000,3920,196,5%,29400,0.04,0.84,7.91
+6/4/2023,West,Yoga Mat,Health & Fitness,Retargeting Campaign,Email,Q2,1400,55000,2750,138,5%,20625,0.05,0.51,13.73
+6/11/2023,North,Laptop Stand,Electronics,Summer Sale Campaign,Direct Mail,Q2,4800,52000,1560,78,5%,19500,0.03,3.08,3.06
+6/18/2023,South,Casual T-Shirt,Fashion,Summer Sale Campaign,Email,Q2,1950,68000,3400,170,5%,25500,0.05,0.57,12.08
+6/25/2023,South,Sports Jacket,Fashion,New Product Launch,Search Engine,Q2,3550,115000,4600,230,5%,34500,0.04,0.77,8.72
+7/2/2023,South,Power Bank,Electronics,Summer Sale Campaign,Social Media,Q3,2900,87000,3480,174,5%,26100,0.04,0.83,8
+7/9/2023,West,Yoga Pants,Fashion,Flash Sale Campaign,Direct Mail,Q3,5200,54000,1620,81,5%,20250,0.03,3.21,2.89
+7/16/2023,South,Gym Gloves,Health & Fitness,New Product Launch,Email,Q3,2300,74000,3700,185,5%,27750,0.05,0.62,11.07
+7/23/2023,South,Sneakers,Fashion,New Product Launch,Search Engine,Q3,2600,85000,3400,170,5%,25500,0.04,0.76,8.81
+7/30/2023,South,Resistance Bands,Health & Fitness,New Product Launch,Email,Q3,1600,62000,3100,155,5%,23250,0.05,0.52,13.53
+8/6/2023,North,Yoga Mat,Health & Fitness,Summer Sale Campaign,Social Media,Q3,3700,102000,4080,204,5%,30600,0.04,0.91,7.27
+8/13/2023,South,Smart Watch,Electronics,Summer Sale Campaign,Direct Mail,Q3,5600,58000,1740,87,5%,21750,0.03,3.22,2.88
+8/20/2023,South,Wireless Earbuds,Electronics,New Product Launch,Search Engine,Q3,3200,100000,4000,200,5%,30000,0.04,0.8,8.38
+8/27/2023,North,Wireless Earbuds,Electronics,Retargeting Campaign,Social Media,Q3,2800,84000,3360,168,5%,25200,0.04,0.83,8
+9/3/2023,South,Yoga Pants,Fashion,Summer Sale Campaign,Email,Q3,1900,67000,3350,168,5%,25125,0.05,0.57,12.22
+9/10/2023,North,Smart Watch,Electronics,Retargeting Campaign,Direct Mail,Q3,4900,53000,1590,80,5%,19875,0.03,3.08,3.06
+9/17/2023,North,Yoga Mat,Health & Fitness,Social Media Boost Campaign,Email,Q3,2450,76000,3800,190,5%,28500,0.05,0.64,10.63
+9/24/2023,South,Running Shoes,Fashion,Retargeting Campaign,Search Engine,Q3,2150,78000,3120,156,5%,23400,0.04,0.69,9.88
+10/1/2023,West,Laptop Stand,Electronics,New Product Launch,Social Media,Q4,3500,100000,4000,200,5%,30000,0.04,0.88,7.57
+10/8/2023,South,Sports Jacket,Fashion,Retargeting Campaign,Direct Mail,Q4,5300,56000,1680,84,5%,21000,0.03,3.15,2.96
+10/15/2023,North,Power Bank,Electronics,Flash Sale Campaign,Email,Q4,2050,69000,3450,172,5%,25875,0.05,0.59,11.62
+10/22/2023,South,Yoga Pants,Fashion,Summer Sale Campaign,Search Engine,Q4,2900,93000,3720,186,5%,27900,0.04,0.78,8.62
+10/29/2023,West,Hoodie,Fashion,Brand Awareness Campaign,Email,Q4,1700,64000,3200,160,5%,24000,0.05,0.53,13.12
+11/5/2023,East,Yoga Mat,Health & Fitness,New Product Launch,Social Media,Q4,3800,104000,4160,208,5%,31200,0.04,0.91,7.21
+11/12/2023,East,Mechanical Keyboard,Electronics,Summer Sale Campaign,Direct Mail,Q4,5700,59000,1770,88,5%,22125,0.03,3.22,2.88
+11/19/2023,East,Power Bank,Electronics,Search Engine Ads Campaign,Search Engine,Q4,2400,82000,3280,164,5%,24600,0.04,0.73,9.25
+11/26/2023,East,Resistance Bands,Health & Fitness,Retargeting Campaign,Social Media,Q4,3100,94000,3760,188,5%,28200,0.04,0.82,8.1
+12/3/2023,West,Multivitamins,Health & Fitness,Summer Sale Campaign,Email,Q4,2250,73000,3650,182,5%,27375,0.05,0.62,11.17
+12/10/2023,West,Sports Jacket,Fashion,Summer Sale Campaign,Direct Mail,Q4,5500,57000,1710,86,5%,21375,0.03,3.22,2.89
+12/17/2023,East,Resistance Bands,Health & Fitness,Summer Sale Campaign,Email,Q4,1350,58000,2900,145,5%,21750,0.05,0.47,15.11
+12/24/2023,North,Resistance Bands,Health & Fitness,Retargeting Campaign,Search Engine,Q4,2700,88000,3520,176,5%,26400,0.04,0.77,8.78
+12/31/2023,East,Sports Jacket,Fashion,New Product Launch,Direct Mail,Q4,5900,61000,1830,92,5%,22875,0.03,3.22,2.88
+8/18/2024,South,Protein Powder,Health & Fitness,Search Engine Ads Campaign,Social Media,Q1,3000,90000,3600,180,5%,27000,0.04,0.83,8
+8/25/2024,East,Power Bank,Electronics,Seasonal Discount Campaign,Email,Q1,1450,60000,3000,150,5%,22500,0.05,0.48,14.52
+9/1/2024,West,Gaming Mouse,Electronics,Flash Sale Campaign,Search Engine,Q1,3400,115000,4600,230,5%,34500,0.04,0.74,9.15
+9/8/2024,North,Smart Watch,Electronics,Summer Sale Campaign,Social Media,Q1,2900,96000,3840,192,5%,28800,0.04,0.76,8.93
+9/15/2024,West,Fitness Tracker,Electronics,Influencer Marketing Campaign,Direct Mail,Q1,4300,62000,1860,93,5%,23250,0.03,2.31,4.41
+9/22/2024,South,Fitness Tracker,Electronics,Summer Sale Campaign,Search Engine,Q1,1050,42000,2100,105,5%,15750,0.05,0.5,14
+9/29/2024,South,Wireless Earbuds,Electronics,Retargeting Campaign,Email,Q1,2200,72000,3600,180,5%,27000,0.05,0.61,11.27
+10/6/2024,North,Power Bank,Electronics,Retargeting Campaign,Search Engine,Q1,3600,112000,4480,224,5%,33600,0.04,0.8,8.33
+10/13/2024,South,Hoodie,Fashion,New Product Launch,Social Media,Q1,3100,89000,3560,178,5%,26700,0.04,0.87,7.61
+10/20/2024,North,Multivitamins,Health & Fitness,Flash Sale Campaign,Direct Mail,Q1,5200,56000,1680,84,5%,21000,0.03,3.1,3.04
+10/27/2024,South,Smart Watch,Electronics,Social Media Boost Campaign,Email,Q1,1850,62000,3100,155,5%,23250,0.05,0.6,11.57
+11/3/2024,West,Multivitamins,Health & Fitness,Retargeting Campaign,Search Engine,Q1,2450,82000,3280,164,5%,24600,0.04,0.75,9.04
+11/10/2024,South,Hoodie,Fashion,Social Media Boost Campaign,Social Media,Q1,4100,108000,4320,216,5%,32400,0.04,0.95,6.9
+11/17/2024,North,Yoga Mat,Health & Fitness,Retargeting Campaign,Direct Mail,Q2,4700,52000,1560,78,5%,19500,0.03,3.01,3.15
+4/14/2024,West,Wireless Earbuds,Electronics,New Product Launch,Email,Q2,2300,74000,3700,185,5%,27750,0.05,0.62,11.07
+4/21/2024,South,Yoga Pants,Fashion,New Product Launch,Social Media,Q2,3200,94000,3760,188,5%,28200,0.04,0.85,7.81
+4/28/2024,West,Sneakers,Fashion,Search Engine Ads Campaign,Search Engine,Q2,2800,92000,3680,184,5%,27600,0.04,0.76,8.86
+5/5/2024,North,Gym Gloves,Health & Fitness,Summer Sale Campaign,Email,Q2,1950,68000,3400,170,5%,25500,0.05,0.57,12.08
+5/12/2024,West,Gaming Mouse,Electronics,Retargeting Campaign,Direct Mail,Q2,6200,64000,1920,96,5%,24000,0.03,3.23,2.87
+5/19/2024,East,Laptop Stand,Electronics,Seasonal Discount Campaign,Search Engine,Q2,2200,77000,3080,154,5%,23100,0.04,0.71,9.5
+5/26/2024,South,Smart Watch,Electronics,Retargeting Campaign,Social Media,Q2,3400,100000,4000,200,5%,30000,0.04,0.85,7.82
+6/2/2024,South,Hoodie,Fashion,New Product Launch,Email,Q2,1500,57000,2850,142,5%,21375,0.05,0.53,13.25
+6/9/2024,South,Bluetooth Speaker,Electronics,Retargeting Campaign,Direct Mail,Q2,5000,54000,1620,81,5%,20250,0.03,3.09,3.05
+6/16/2024,South,Mechanical Keyboard,Electronics,Loyalty Program Campaign,Email,Q2,2050,70000,3500,175,5%,26250,0.05,0.59,11.8
+6/23/2024,North,Mechanical Keyboard,Electronics,Social Media Boost Campaign,Search Engine,Q2,3700,118000,4720,236,5%,35400,0.04,0.78,8.57
+6/30/2024,South,Resistance Bands,Health & Fitness,Search Engine Ads Campaign,Social Media,Q2,3050,89000,3560,178,5%,26700,0.04,0.86,7.75
+7/7/2024,North,Hoodie,Fashion,Loyalty Program Campaign,Direct Mail,Q3,5400,56000,1680,84,5%,21000,0.03,3.21,2.89
+7/14/2024,North,Sports Jacket,Fashion,Retargeting Campaign,Email,Q3,2400,76000,3800,190,5%,28500,0.05,0.63,10.88
+7/21/2024,South,Yoga Mat,Health & Fitness,Social Media Boost Campaign,Search Engine,Q3,2700,87000,3480,174,5%,26100,0.04,0.78,8.67
+7/28/2024,North,Gaming Mouse,Electronics,Search Engine Ads Campaign,Email,Q3,1700,64000,3200,160,5%,24000,0.05,0.53,13.12
+8/4/2024,South,Casual T-Shirt,Fashion,Summer Sale Campaign,Social Media,Q3,3900,106000,4240,212,5%,31800,0.04,0.92,7.15
+8/11/2024,South,Gym Gloves,Health & Fitness,Loyalty Program Campaign,Direct Mail,Q3,5800,60000,1800,90,5%,22500,0.03,3.22,2.88
+8/18/2024,North,Fitness Tracker,Electronics,Summer Sale Campaign,Search Engine,Q3,3300,102000,4080,204,5%,30600,0.04,0.81,8.27
+8/25/2024,South,Sports Jacket,Fashion,Retargeting Campaign,Social Media,Q3,2900,86000,3440,172,5%,25800,0.04,0.84,7.9
+9/1/2024,South,Hoodie,Fashion,Retargeting Campaign,Email,Q3,2000,69000,3450,172,5%,25875,0.05,0.58,11.94
+9/8/2024,West,Denim Jeans,Fashion,New Product Launch,Direct Mail,Q3,5100,55000,1650,82,5%,20625,0.03,3.09,3.04
+9/15/2024,West,Yoga Mat,Health & Fitness,Retargeting Campaign,Email,Q3,2550,78000,3900,195,5%,29250,0.05,0.65,10.47
+9/22/2024,South,Sports Jacket,Fashion,New Product Launch,Search Engine,Q3,2250,80000,3200,160,5%,24000,0.04,0.7,9.67
+9/29/2024,South,Wireless Earbuds,Electronics,Search Engine Ads Campaign,Social Media,Q4,3600,102000,4080,204,5%,30600,0.04,0.88,7.5
+10/6/2024,South,Casual T-Shirt,Fashion,Search Engine Ads Campaign,Direct Mail,Q4,5500,58000,1740,87,5%,21750,0.03,3.16,2.95
+10/13/2024,East,Sports Jacket,Fashion,Seasonal Discount Campaign,Email,Q4,2150,71000,3550,178,5%,26625,0.05,0.61,11.38
+10/20/2024,West,Casual T-Shirt,Fashion,Summer Sale Campaign,Search Engine,Q4,3000,95000,3800,190,5%,28500,0.04,0.79,8.5
+10/27/2024,South,Sneakers,Fashion,Summer Sale Campaign,Email,Q4,1800,66000,3300,165,5%,24750,0.05,0.55,12.75
+11/3/2024,North,Wireless Earbuds,Electronics,Summer Sale Campaign,Social Media,Q4,4000,108000,4320,216,5%,32400,0.04,0.93,7.1
+11/10/2024,West,Sports Jacket,Fashion,Summer Sale Campaign,Direct Mail,Q4,5900,61000,1830,92,5%,22875,0.03,3.22,2.88
+11/17/2024,South,Gaming Mouse,Electronics,Retargeting Campaign,Search Engine,Q4,2500,84000,3360,168,5%,25200,0.04,0.74,9.08
+11/24/2024,West,Mechanical Keyboard,Electronics,Search Engine Ads Campaign,Social Media,Q4,3300,97000,3880,194,5%,29100,0.04,0.85,7.82
+12/1/2024,North,Denim Jeans,Fashion,Summer Sale Campaign,Email,Q4,2350,75000,3750,188,5%,28125,0.05,0.63,10.97
+12/8/2024,South,Bluetooth Speaker,Electronics,Email Promotion,Direct Mail,Q4,5700,59000,1770,88,5%,22125,0.03,3.22,2.88
+12/15/2024,North,Wireless Earbuds,Electronics,Retargeting Campaign,Email,Q4,1450,60000,3000,150,5%,22500,0.05,0.48,14.52
+12/22/2024,South,Casual T-Shirt,Fashion,Cart Abandonment Campaign,Search Engine,Q4,2800,90000,3600,180,5%,27000,0.04,0.78,8.64
+12/29/2024,North,Gaming Mouse,Electronics,Seasonal Discount Campaign,Direct Mail,Q4,6100,63000,1890,94,5%,23625,0.03,3.23,2.87
+1/2/2023,South,Power Bank,Electronics,Email Promotion,Social Media,Q1,1850,62000,3100,155,5%,23250,0.05,0.6,11.57
+1/9/2023,North,Running Shoes,Fashion,Email Promotion,Email,Q1,2100,70000,3500,175,5%,26250,0.05,0.6,11.5
+1/16/2023,North,Mechanical Keyboard,Electronics,Retargeting Campaign,Search Engine,Q1,3900,120000,4800,240,5%,36000,0.04,0.81,8.23
+1/23/2023,West,Smart Watch,Electronics,Search Engine Ads Campaign,Direct Mail,Q1,4800,50000,1500,75,5%,18750,0.03,3.2,2.91
+1/30/2023,North,Yoga Pants,Fashion,Retargeting Campaign,Email,Q1,1550,58000,2900,145,5%,21750,0.05,0.53,13.03
+2/6/2023,North,Power Bank,Electronics,Retargeting Campaign,Search Engine,Q1,3300,110000,4400,220,5%,33000,0.04,0.75,9
+2/13/2023,North,Yoga Pants,Fashion,Summer Sale Campaign,Social Media,Q1,2750,85000,3400,170,5%,25500,0.04,0.81,8.27
+2/20/2023,South,Gaming Mouse,Electronics,Summer Sale Campaign,Email,Q1,2350,75000,3750,188,5%,28125,0.05,0.63,10.97
+2/27/2023,North,Bluetooth Speaker,Electronics,Email Promotion,Direct Mail,Q1,5400,58000,1740,87,5%,21750,0.03,3.1,3.03
+3/6/2023,South,Yoga Mat,Health & Fitness,Summer Sale Campaign,Social Media,Q1,3050,92000,3680,184,5%,27600,0.04,0.83,8.05
+7/3/2023,South,Casual T-Shirt,Fashion,Loyalty Program Campaign,Email,Q3,2400,76000,3800,190,5%,28500,0.05,0.63,10.88
+7/10/2023,North,Smart Watch,Electronics,Summer Sale Campaign,Social Media,Q3,2950,89000,3560,178,5%,26700,0.04,0.83,8.05
+7/17/2023,West,Hoodie,Fashion,Retargeting Campaign,Email,Q3,1850,66000,3300,165,5%,24750,0.05,0.56,12.38
+7/24/2023,South,Wireless Earbuds,Electronics,Summer Sale Campaign,Search Engine,Q3,3500,112000,4480,224,5%,33600,0.04,0.78,8.6
+7/31/2023,South,Denim Jeans,Fashion,Social Media Boost Campaign,Direct Mail,Q3,5700,59000,1770,88,5%,22125,0.03,3.22,2.88
+8/7/2023,West,Yoga Pants,Fashion,Social Media Boost Campaign,Email,Q3,2550,78000,3900,195,5%,29250,0.05,0.65,10.47
+11/6/2023,North,Smart Watch,Electronics,Summer Sale Campaign,Social Media,Q4,3500,105000,4200,210,5%,31500,0.04,0.83,8
+11/13/2023,South,Bluetooth Speaker,Electronics,Retargeting Campaign,Direct Mail,Q4,5500,58000,1740,87,5%,21750,0.03,3.16,2.95
+11/20/2023,North,Protein Powder,Health & Fitness,Seasonal Discount Campaign,Email,Q4,2350,75000,3750,188,5%,28125,0.05,0.63,10.97
+11/27/2023,South,Power Bank,Electronics,New Product Launch,Search Engine,Q4,3850,119000,4760,238,5%,35700,0.04,0.81,8.27
+12/4/2023,South,Sneakers,Fashion,Search Engine Ads Campaign,Email,Q4,1950,68000,3400,170,5%,25500,0.05,0.57,12.08
+12/11/2023,North,Laptop Stand,Electronics,New Product Launch,Direct Mail,Q4,5000,54000,1620,81,5%,20250,0.03,3.09,3.05
+12/18/2023,West,Yoga Mat,Health & Fitness,Summer Sale Campaign,Social Media,Q4,3200,97000,3880,194,5%,29100,0.04,0.83,8.09
+12/25/2023,West,Gaming Mouse,Electronics,Influencer Marketing Campaign,Search Engine,Q4,2800,91000,3640,182,5%,27300,0.04,0.77,8.75
+8/18/2024,North,Yoga Pants,Fashion,New Product Launch,Email,Q1,1600,60000,3000,150,5%,22500,0.05,0.53,13.06
+8/25/2024,South,Hoodie,Fashion,Email Promotion,Social Media,Q1,2950,89000,3560,178,5%,26700,0.04,0.83,8.05
+9/1/2024,South,Smart Watch,Electronics,Summer Sale Campaign,Direct Mail,Q1,4600,52000,1560,78,5%,19500,0.03,2.95,3.24
+9/8/2024,South,Wireless Earbuds,Electronics,Brand Awareness Campaign,Email,Q1,2000,68000,3400,170,5%,25500,0.05,0.59,11.75
+9/15/2024,South,Laptop Stand,Electronics,Retargeting Campaign,Search Engine,Q1,3100,98000,3920,196,5%,29400,0.04,0.79,8.48
+9/22/2024,West,Yoga Pants,Fashion,Retargeting Campaign,Email,Q1,1850,65000,3250,162,5%,24375,0.05,0.57,12.18
+9/29/2024,North,Bluetooth Speaker,Electronics,Retargeting Campaign,Social Media,Q1,2850,88000,3520,176,5%,26400,0.04,0.81,8.26
+10/6/2024,North,Hoodie,Fashion,Summer Sale Campaign,Search Engine,Q1,3600,114000,4560,228,5%,34200,0.04,0.79,8.5
+10/13/2024,West,Yoga Mat,Health & Fitness,Retargeting Campaign,Direct Mail,Q1,5500,59000,1770,88,5%,22125,0.03,3.11,3.02
+10/20/2024,East,Laptop Stand,Electronics,Flash Sale Campaign,Email,Q1,2250,74000,3700,185,5%,27750,0.05,0.61,11.33
+10/27/2024,South,Protein Powder,Health & Fitness,Brand Awareness Campaign,Social Media,Q1,3300,100000,4000,200,5%,30000,0.04,0.82,8.09
+11/3/2024,South,Mechanical Keyboard,Electronics,Social Media Boost Campaign,Direct Mail,Q1,5000,55000,1650,82,5%,20625,0.03,3.03,3.13
+11/10/2024,North,Multivitamins,Health & Fitness,Social Media Boost Campaign,Email,Q1,1750,63000,3150,158,5%,23625,0.05,0.56,12.5
+11/17/2024,North,Gym Gloves,Health & Fitness,Brand Awareness Campaign,Search Engine,Q2,3450,108000,4320,216,5%,32400,0.04,0.8,8.39
+4/8/2024,South,Fitness Tracker,Electronics,Brand Awareness Campaign,Email,Q2,2100,71000,3550,178,5%,26625,0.05,0.59,11.68
+4/15/2024,North,Yoga Pants,Fashion,Social Media Boost Campaign,Social Media,Q2,3150,95000,3800,190,5%,28500,0.04,0.83,8.05
+4/22/2024,North,Yoga Mat,Health & Fitness,Retargeting Campaign,Direct Mail,Q2,5400,58000,1740,87,5%,21750,0.03,3.1,3.03
+4/29/2024,South,Power Bank,Electronics,Email Promotion,Email,Q2,1900,66000,3300,165,5%,24750,0.05,0.58,12.03
+5/6/2024,North,Yoga Mat,Health & Fitness,Email Promotion,Search Engine,Q2,3800,118000,4720,236,5%,35400,0.04,0.81,8.32
+5/13/2024,East,Protein Powder,Health & Fitness,Seasonal Discount Campaign,Email,Q2,2300,74000,3700,185,5%,27750,0.05,0.62,11.07
+5/20/2024,East,Smart Watch,Electronics,Summer Sale Campaign,Social Media,Q2,3000,91000,3640,182,5%,27300,0.04,0.82,8.1
+5/27/2024,West,Hoodie,Fashion,Retargeting Campaign,Direct Mail,Q2,5200,56000,1680,84,5%,21000,0.03,3.1,3.04
+6/3/2024,East,Smart Watch,Electronics,Social Media Boost Campaign,Search Engine,Q2,2800,90000,3600,180,5%,27000,0.04,0.78,8.64
+6/10/2024,East,Gaming Mouse,Electronics,Retargeting Campaign,Email,Q2,2450,77000,3850,192,5%,28875,0.05,0.64,10.79
+6/17/2024,North,Resistance Bands,Health & Fitness,Social Media Boost Campaign,Social Media,Q2,3400,101000,4040,202,5%,30300,0.04,0.84,7.91
+6/24/2024,East,Running Shoes,Fashion,Seasonal Discount Campaign,Search Engine,Q2,2700,87000,3480,174,5%,26100,0.04,0.78,8.67
+7/1/2024,South,Protein Powder,Health & Fitness,Summer Sale Campaign,Direct Mail,Q3,5800,61000,1830,92,5%,22875,0.03,3.17,2.94
+7/8/2024,South,Power Bank,Electronics,Seasonal Discount Campaign,Social Media,Q3,3050,93000,3720,186,5%,27900,0.04,0.82,8.15
+7/15/2024,West,Gaming Mouse,Electronics,Retargeting Campaign,Email,Q3,1950,69000,3450,172,5%,25875,0.05,0.57,12.27
+7/22/2024,North,Yoga Pants,Fashion,Seasonal Discount Campaign,Search Engine,Q3,3600,113000,4520,226,5%,33900,0.04,0.8,8.42
+7/29/2024,East,Hoodie,Fashion,New Product Launch,Email,Q3,2200,73000,3650,182,5%,27375,0.05,0.6,11.44
+8/5/2024,South,Mechanical Keyboard,Electronics,Seasonal Discount Campaign,Direct Mail,Q3,5600,59000,1770,88,5%,22125,0.03,3.16,2.95
+8/12/2024,West,Wireless Earbuds,Electronics,Search Engine Ads Campaign,Email,Q3,2050,70000,3500,175,5%,26250,0.05,0.59,11.8
+8/19/2024,South,Fitness Tracker,Electronics,Summer Sale Campaign,Social Media,Q3,3250,98000,3920,196,5%,29400,0.04,0.83,8.05
+8/26/2024,West,Hoodie,Fashion,Flash Sale Campaign,Search Engine,Q3,3950,121000,4840,242,5%,36300,0.04,0.82,8.19
+9/2/2024,South,Sports Jacket,Fashion,Summer Sale Campaign,Email,Q3,2400,76000,3800,190,5%,28500,0.05,0.63,10.88
+9/9/2024,North,Smart Watch,Electronics,Retargeting Campaign,Direct Mail,Q3,5300,57000,1710,86,5%,21375,0.03,3.1,3.03
+9/16/2024,North,Yoga Pants,Fashion,Summer Sale Campaign,Email,Q3,2150,72000,3600,180,5%,27000,0.05,0.6,11.56
+9/23/2024,South,Laptop Stand,Electronics,Retargeting Campaign,Social Media,Q4,3100,95000,3800,190,5%,28500,0.04,0.82,8.19
+9/30/2024,North,Mechanical Keyboard,Electronics,Retargeting Campaign,Search Engine,Q4,4000,125000,5000,250,5%,37500,0.04,0.8,8.38
+10/7/2024,West,Power Bank,Electronics,Seasonal Discount Campaign,Direct Mail,Q4,5700,60000,1800,90,5%,22500,0.03,3.17,2.95
+10/14/2024,West,Denim Jeans,Fashion,Email Promotion,Email,Q4,2300,75000,3750,188,5%,28125,0.05,0.61,11.23
+10/21/2024,North,Yoga Mat,Health & Fitness,Summer Sale Campaign,Social Media,Q4,3500,104000,4160,208,5%,31200,0.04,0.84,7.91
+10/28/2024,East,Yoga Pants,Fashion,New Product Launch,Search Engine,Q4,2900,94000,3760,188,5%,28200,0.04,0.77,8.72
+11/4/2024,West,Yoga Mat,Health & Fitness,Email Promotion,Email,Q4,2050,71000,3550,178,5%,26625,0.05,0.58,11.99
+11/11/2024,West,Wireless Earbuds,Electronics,Search Engine Ads Campaign,Direct Mail,Q4,5400,58000,1740,87,5%,21750,0.03,3.1,3.03
+11/18/2024,North,Power Bank,Electronics,Retargeting Campaign,Email,Q4,2500,78000,3900,195,5%,29250,0.05,0.64,10.7
+11/25/2024,East,Sneakers,Fashion,New Product Launch,Social Media,Q4,3650,108000,4320,216,5%,32400,0.04,0.84,7.88
+12/2/2024,East,Gaming Mouse,Electronics,Retargeting Campaign,Search Engine,Q4,3200,100000,4000,200,5%,30000,0.04,0.8,8.38
+12/9/2024,North,Wireless Earbuds,Electronics,Social Media Boost Campaign,Email,Q4,2200,73000,3650,182,5%,27375,0.05,0.6,11.44
+12/16/2024,West,Resistance Bands,Health & Fitness,Summer Sale Campaign,Direct Mail,Q4,5900,62000,1860,93,5%,23250,0.03,3.17,2.94
+12/23/2024,South,Multivitamins,Health & Fitness,Retargeting Campaign,Social Media,Q4,3350,101000,4040,202,5%,30300,0.04,0.83,8.04
+12/30/2024,North,Multivitamins,Health & Fitness,Brand Awareness Campaign,Direct Mail,Q4,5100,55000,1650,82,5%,20625,0.03,3.09,3.04
+8/26/2024,South,Hoodie,Fashion,Summer Sale Campaign,Social Media,Q1,2650,82000,3280,164,5%,24600,0.04,0.81,8.28
+9/2/2024,West,Mechanical Keyboard,Electronics,New Product Launch,Email,Q1,1950,67000,3350,168,5%,25125,0.05,0.58,11.88
+9/9/2024,North,Sneakers,Fashion,Search Engine Ads Campaign,Search Engine,Q1,3550,112000,4480,224,5%,33600,0.04,0.79,8.46
+9/16/2024,North,Gym Gloves,Health & Fitness,Seasonal Discount Campaign,Direct Mail,Q1,4900,53000,1590,80,5%,19875,0.03,3.08,3.06
+9/23/2024,North,Smart Watch,Electronics,Summer Sale Campaign,Email,Q1,1700,62000,3100,155,5%,23250,0.05,0.55,12.68
+9/30/2024,South,Mechanical Keyboard,Electronics,Social Media Boost Campaign,Social Media,Q1,2900,88000,3520,176,5%,26400,0.04,0.82,8.1
+10/7/2024,North,Denim Jeans,Fashion,Loyalty Program Campaign,Email,Q1,2150,72000,3600,180,5%,27000,0.05,0.6,11.56
+10/14/2024,North,Sports Jacket,Fashion,New Product Launch,Search Engine,Q1,3850,119000,4760,238,5%,35700,0.04,0.81,8.27
+10/21/2024,North,Hoodie,Fashion,Influencer Marketing Campaign,Direct Mail,Q1,5600,59000,1770,88,5%,22125,0.03,3.16,2.95
+10/28/2024,South,Mechanical Keyboard,Electronics,Summer Sale Campaign,Email,Q1,2050,70000,3500,175,5%,26250,0.05,0.59,11.8
+11/4/2024,West,Yoga Mat,Health & Fitness,Retargeting Campaign,Social Media,Q1,3200,97000,3880,194,5%,29100,0.04,0.82,8.09
+11/11/2024,North,Bluetooth Speaker,Electronics,Email Promotion,Email,Q1,2300,74000,3700,185,5%,27750,0.05,0.62,11.07
+11/18/2024,West,Denim Jeans,Fashion,Retargeting Campaign,Search Engine,Q2,2750,88000,3520,176,5%,26400,0.04,0.78,8.6
+11/25/2024,West,Smart Watch,Electronics,Summer Sale Campaign,Email,Q2,2250,73000,3650,182,5%,27375,0.05,0.62,11.17
+6/27/2023,North,Resistance Bands,Health & Fitness,Social Media Boost Campaign,Social Media,Q3,3100,95000,3800,190,5%,28500,0.04,0.82,8.19
+7/4/2023,South,Running Shoes,Fashion,Loyalty Program Campaign,Email,Q3,1900,66000,3300,165,5%,24750,0.05,0.58,12.03
+7/11/2023,North,Sneakers,Fashion,Retargeting Campaign,Search Engine,Q3,3950,121000,4840,242,5%,36300,0.04,0.82,8.19
+7/18/2023,North,Casual T-Shirt,Fashion,Retargeting Campaign,Direct Mail,Q3,5800,61000,1830,92,5%,22875,0.03,3.17,2.94
+7/25/2023,North,Laptop Stand,Electronics,Seasonal Discount Campaign,Email,Q3,2350,75000,3750,188,5%,28125,0.05,0.63,10.97
+8/1/2023,West,Wireless Earbuds,Electronics,Retargeting Campaign,Social Media,Q3,3400,102000,4080,204,5%,30600,0.04,0.83,8
+8/8/2023,West,Yoga Pants,Fashion,Retargeting Campaign,Email,Q3,2150,72000,3600,180,5%,27000,0.05,0.6,11.56
+8/15/2023,South,Fitness Tracker,Electronics,Retargeting Campaign,Search Engine,Q3,2850,91000,3640,182,5%,27300,0.04,0.78,8.58
+8/22/2023,West,Denim Jeans,Fashion,Flash Sale Campaign,Direct Mail,Q3,5400,58000,1740,87,5%,21750,0.03,3.1,3.03
+8/29/2023,South,Laptop Stand,Electronics,Social Media Boost Campaign,Email,Q3,2050,70000,3500,175,5%,26250,0.05,0.59,11.8
+9/5/2023,West,Wireless Earbuds,Electronics,Summer Sale Campaign,Social Media,Q3,3250,99000,3960,198,5%,29700,0.04,0.82,8.14
+9/12/2023,East,Laptop Stand,Electronics,Loyalty Program Campaign,Email,Q3,2400,76000,3800,190,5%,28500,0.05,0.63,10.88
+9/19/2023,North,Bluetooth Speaker,Electronics,Flash Sale Campaign,Search Engine,Q3,3750,117000,4680,234,5%,35100,0.04,0.8,8.36
+9/26/2023,North,Denim Jeans,Fashion,Retargeting Campaign,Direct Mail,Q4,5600,60000,1800,90,5%,22500,0.03,3.11,3.02
+10/3/2023,West,Running Shoes,Fashion,Flash Sale Campaign,Email,Q4,2550,78000,3900,195,5%,29250,0.05,0.65,10.47
+10/10/2023,South,Yoga Mat,Health & Fitness,Summer Sale Campaign,Social Media,Q4,3150,96000,3840,192,5%,28800,0.04,0.82,8.14
+10/17/2023,North,Bluetooth Speaker,Electronics,Search Engine Ads Campaign,Email,Q4,2250,74000,3700,185,5%,27750,0.05,0.61,11.33
+10/24/2023,West,Bluetooth Speaker,Electronics,Social Media Boost Campaign,Search Engine,Q4,3650,114000,4560,228,5%,34200,0.04,0.8,8.37
+10/31/2023,North,Denim Jeans,Fashion,Brand Awareness Campaign,Direct Mail,Q4,5200,56000,1680,84,5%,21000,0.03,3.1,3.04
+11/7/2023,West,Hoodie,Fashion,Summer Sale Campaign,Email,Q4,2450,77000,3850,192,5%,28875,0.05,0.64,10.79
+11/14/2023,East,Hoodie,Fashion,Flash Sale Campaign,Social Media,Q4,3350,101000,4040,202,5%,30300,0.04,0.83,8.04
+11/21/2023,West,Laptop Stand,Electronics,Retargeting Campaign,Email,Q4,2150,72000,3600,180,5%,27000,0.05,0.6,11.56
+11/28/2023,South,Bluetooth Speaker,Electronics,Summer Sale Campaign,Search Engine,Q4,4050,124000,4960,248,5%,37200,0.04,0.82,8.19
+12/5/2023,West,Denim Jeans,Fashion,Retargeting Campaign,Direct Mail,Q4,5900,62000,1860,93,5%,23250,0.03,3.17,2.94
+12/12/2023,South,Resistance Bands,Health & Fitness,Brand Awareness Campaign,Email,Q4,2350,75000,3750,188,5%,28125,0.05,0.63,10.97
+12/19/2023,North,Gaming Mouse,Electronics,Brand Awareness Campaign,Social Media,Q4,3500,105000,4200,210,5%,31500,0.04,0.83,8
+12/26/2023,South,Fitness Tracker,Electronics,Social Media Boost Campaign,Email,Q4,2650,80000,4000,200,5%,30000,0.05,0.66,10.32
+1/2/2024,North,Casual T-Shirt,Fashion,Flash Sale Campaign,Search Engine,Q1,2950,94000,3760,188,5%,28200,0.04,0.78,8.56
+1/9/2024,West,Casual T-Shirt,Fashion,Retargeting Campaign,Direct Mail,Q1,5000,54000,1620,81,5%,20250,0.03,3.09,3.05
+1/16/2024,East,Casual T-Shirt,Fashion,Email Promotion,Email,Q1,1850,65000,3250,162,5%,24375,0.05,0.57,12.18
+1/23/2024,North,Gaming Mouse,Electronics,Search Engine Ads Campaign,Social Media,Q1,3200,98000,3920,196,5%,29400,0.04,0.82,8.19
+1/30/2024,North,Bluetooth Speaker,Electronics,Email Promotion,Email,Q1,2200,73000,3650,182,5%,27375,0.05,0.6,11.44
+2/6/2024,South,Casual T-Shirt,Fashion,Retargeting Campaign,Search Engine,Q1,3700,116000,4640,232,5%,34800,0.04,0.8,8.41
+2/13/2024,South,Laptop Stand,Electronics,Retargeting Campaign,Direct Mail,Q1,5400,58000,1740,87,5%,21750,0.03,3.1,3.03
+2/20/2024,North,Mechanical Keyboard,Electronics,Summer Sale Campaign,Email,Q1,2300,75000,3750,188,5%,28125,0.05,0.61,11.23
+2/27/2024,South,Wireless Earbuds,Electronics,Seasonal Discount Campaign,Social Media,Q1,3100,95000,3800,190,5%,28500,0.04,0.82,8.19
+3/5/2024,South,Resistance Bands,Health & Fitness,Email Promotion,Email,Q1,2000,69000,3450,172,5%,25875,0.05,0.58,11.94
+3/12/2024,South,Fitness Tracker,Electronics,New Product Launch,Search Engine,Q1,3600,113000,4520,226,5%,33900,0.04,0.8,8.42
+8/26/2024,North,Smart Watch,Electronics,Retargeting Campaign,Direct Mail,Q2,5100,55000,1650,82,5%,20625,0.03,3.09,3.04
+9/2/2024,South,Gaming Mouse,Electronics,Summer Sale Campaign,Email,Q2,2150,72000,3600,180,5%,27000,0.05,0.6,11.56
+9/9/2024,South,Protein Powder,Health & Fitness,Retargeting Campaign,Social Media,Q2,3300,100000,4000,200,5%,30000,0.04,0.82,8.09
+9/16/2024,East,Gaming Mouse,Electronics,Brand Awareness Campaign,Email,Q2,1950,68000,3400,170,5%,25500,0.05,0.57,12.08
+9/23/2024,West,Yoga Pants,Fashion,Loyalty Program Campaign,Search Engine,Q2,3900,120000,4800,240,5%,36000,0.04,0.81,8.23
+9/30/2024,South,Mechanical Keyboard,Electronics,Retargeting Campaign,Direct Mail,Q2,5700,60000,1800,90,5%,22500,0.03,3.17,2.95
+10/7/2024,East,Gym Gloves,Health & Fitness,Brand Awareness Campaign,Email,Q2,2400,76000,3800,190,5%,28500,0.05,0.63,10.88
+10/14/2024,South,Bluetooth Speaker,Electronics,Loyalty Program Campaign,Social Media,Q2,3450,103000,4120,206,5%,30900,0.04,0.84,7.96
+10/21/2024,North,Resistance Bands,Health & Fitness,Search Engine Ads Campaign,Email,Q2,2550,78000,3900,195,5%,29250,0.05,0.65,10.47
+10/28/2024,West,Sneakers,Fashion,Cart Abandonment Campaign,Search Engine,Q2,2900,93000,3720,186,5%,27900,0.04,0.78,8.62
+11/4/2024,South,Hoodie,Fashion,Summer Sale Campaign,Direct Mail,Q2,5300,57000,1710,86,5%,21375,0.03,3.1,3.03
+11/11/2024,North,Protein Powder,Health & Fitness,Retargeting Campaign,Email,Q2,2050,71000,3550,178,5%,26625,0.05,0.58,11.99
+11/18/2024,East,Casual T-Shirt,Fashion,New Product Launch,Social Media,Q2,3400,102000,4080,204,5%,30600,0.04,0.83,8
+11/25/2024,East,Mechanical Keyboard,Electronics,Search Engine Ads Campaign,Email,Q2,2250,74000,3700,185,5%,27750,0.05,0.61,11.33
+6/25/2024,North,Denim Jeans,Fashion,Social Media Boost Campaign,Search Engine,Q3,3800,118000,4720,236,5%,35400,0.04,0.81,8.32
+7/2/2024,North,Sneakers,Fashion,New Product Launch,Direct Mail,Q3,5600,59000,1770,88,5%,22125,0.03,3.16,2.95
+7/9/2024,South,Wireless Earbuds,Electronics,Brand Awareness Campaign,Email,Q3,2450,77000,3850,192,5%,28875,0.05,0.64,10.79
+7/16/2024,East,Sports Jacket,Fashion,Retargeting Campaign,Social Media,Q3,3150,97000,3880,194,5%,29100,0.04,0.81,8.24
+7/23/2024,South,Yoga Mat,Health & Fitness,Search Engine Ads Campaign,Email,Q3,2300,75000,3750,188,5%,28125,0.05,0.61,11.23
+7/30/2024,South,Sports Jacket,Fashion,Loyalty Program Campaign,Search Engine,Q3,3700,115000,4600,230,5%,34500,0.04,0.8,8.32
+8/6/2024,East,Sports Jacket,Fashion,Cart Abandonment Campaign,Direct Mail,Q3,5500,59000,1770,88,5%,22125,0.03,3.11,3.02
+8/13/2024,West,Fitness Tracker,Electronics,Search Engine Ads Campaign,Email,Q3,2350,76000,3800,190,5%,28500,0.05,0.62,11.13
+8/20/2024,South,Mechanical Keyboard,Electronics,Brand Awareness Campaign,Social Media,Q3,3350,101000,4040,202,5%,30300,0.04,0.83,8.04
+8/27/2024,South,Gaming Mouse,Electronics,Influencer Marketing Campaign,Email,Q3,2100,72000,3600,180,5%,27000,0.05,0.58,11.86
+9/3/2024,West,Gaming Mouse,Electronics,Social Media Boost Campaign,Search Engine,Q4,4000,123000,4920,246,5%,36900,0.04,0.81,8.23
+9/10/2024,South,Fitness Tracker,Electronics,Retargeting Campaign,Direct Mail,Q4,5900,62000,1860,93,5%,23250,0.03,3.17,2.94
+9/17/2024,West,Sports Jacket,Fashion,Social Media Boost Campaign,Email,Q4,2500,79000,3950,198,5%,29625,0.05,0.63,10.85
+9/24/2024,South,Casual T-Shirt,Fashion,Loyalty Program Campaign,Social Media,Q4,3550,107000,4280,214,5%,32100,0.04,0.83,8.04
+10/1/2024,West,Yoga Mat,Health & Fitness,Summer Sale Campaign,Email,Q4,2650,81000,4050,202,5%,30375,0.05,0.65,10.46
+10/8/2024,East,Yoga Pants,Fashion,Summer Sale Campaign,Search Engine,Q4,3050,96000,3840,192,5%,28800,0.04,0.79,8.44
+10/15/2024,North,Denim Jeans,Fashion,Retargeting Campaign,Direct Mail,Q4,5400,58000,1740,87,5%,21750,0.03,3.1,3.03
+10/22/2024,South,Power Bank,Electronics,Summer Sale Campaign,Email,Q4,2250,74000,3700,185,5%,27750,0.05,0.61,11.33
+10/29/2024,North,Wireless Earbuds,Electronics,Loyalty Program Campaign,Social Media,Q4,3450,104000,4160,208,5%,31200,0.04,0.83,8.04
+11/5/2024,South,Wireless Earbuds,Electronics,Social Media Boost Campaign,Email,Q4,2550,79000,3950,198,5%,29625,0.05,0.65,10.62
+11/12/2024,South,Fitness Tracker,Electronics,Retargeting Campaign,Search Engine,Q4,3850,120000,4800,240,5%,36000,0.04,0.8,8.35
+11/19/2024,North,Power Bank,Electronics,Social Media Boost Campaign,Direct Mail,Q4,5700,61000,1830,92,5%,22875,0.03,3.11,3.01
+11/26/2024,North,Laptop Stand,Electronics,Email Promotion,Email,Q4,2750,83000,4150,208,5%,31125,0.05,0.66,10.32
+12/3/2024,North,Bluetooth Speaker,Electronics,Social Media Boost Campaign,Social Media,Q4,3250,99000,3960,198,5%,29700,0.04,0.82,8.14
+12/10/2024,North,Running Shoes,Fashion,Summer Sale Campaign,Email,Q4,2400,77000,3850,192,5%,28875,0.05,0.62,11.03
+12/17/2024,South,Denim Jeans,Fashion,Summer Sale Campaign,Search Engine,Q4,3750,117000,4680,234,5%,35100,0.04,0.8,8.36
+12/24/2024,North,Casual T-Shirt,Fashion,Summer Sale Campaign,Direct Mail,Q4,5600,60000,1800,90,5%,22500,0.03,3.11,3.02
+12/31/2024,South,Smart Watch,Electronics,Retargeting Campaign,Email,Q4,2600,81000,4050,202,5%,30375,0.05,0.64,10.68
+12/5/2023,North,Bluetooth Speaker,Electronics,Retargeting Campaign,Email,Q1,1450,58000,2900,145,5%,21750,0.05,0.5,14
+12/12/2023,North,Denim Jeans,Fashion,Retargeting Campaign,Search Engine,Q1,2850,89000,3560,178,5%,26700,0.04,0.8,8.37
+12/19/2023,West,Sneakers,Fashion,Social Media Boost Campaign,Social Media,Q1,2250,74000,3700,185,5%,27750,0.05,0.61,11.33
+12/26/2023,South,Gym Gloves,Health & Fitness,Summer Sale Campaign,Direct Mail,Q1,4700,51000,1530,77,5%,19125,0.03,3.07,3.07
+12/5/2023,East,Smart Watch,Electronics,Loyalty Program Campaign,Social Media,Q1,2950,90000,3600,180,5%,27000,0.04,0.82,8.15
+12/12/2023,East,Bluetooth Speaker,Electronics,Brand Awareness Campaign,Email,Q1,1750,63000,3150,158,5%,23625,0.05,0.56,12.5
+12/19/2023,North,Laptop Stand,Electronics,Summer Sale Campaign,Search Engine,Q1,3350,105000,4200,210,5%,31500,0.04,0.8,8.4
+12/26/2023,East,Wireless Earbuds,Electronics,Social Media Boost Campaign,Email,Q1,1950,67000,3350,168,5%,25125,0.05,0.58,11.88
+3/1/2023,South,Sneakers,Fashion,Email Promotion,Direct Mail,Q1,5200,56000,1680,84,5%,21000,0.03,3.1,3.04
+12/5/2023,East,Sneakers,Fashion,Retargeting Campaign,Social Media,Q1,2750,86000,3440,172,5%,25800,0.04,0.8,8.38
+12/12/2023,East,Gym Gloves,Health & Fitness,Summer Sale Campaign,Email,Q1,2050,70000,3500,175,5%,26250,0.05,0.59,11.8
+12/19/2023,West,Denim Jeans,Fashion,Summer Sale Campaign,Search Engine,Q2,3550,111000,4440,222,5%,33300,0.04,0.8,8.38
+12/26/2023,East,Mechanical Keyboard,Electronics,Retargeting Campaign,Email,Q2,2350,75000,3750,188,5%,28125,0.05,0.63,10.97
+4/5/2023,South,Wireless Earbuds,Electronics,Retargeting Campaign,Direct Mail,Q2,5400,58000,1740,87,5%,21750,0.03,3.1,3.03
+4/12/2023,South,Smart Watch,Electronics,Influencer Marketing Campaign,Social Media,Q2,3050,94000,3760,188,5%,28200,0.04,0.81,8.25
+4/19/2023,North,Power Bank,Electronics,Flash Sale Campaign,Email,Q2,2150,72000,3600,180,5%,27000,0.05,0.6,11.56
+4/26/2023,South,Protein Powder,Health & Fitness,New Product Launch,Search Engine,Q2,3750,117000,4680,234,5%,35100,0.04,0.8,8.36
+5/3/2023,East,Sports Jacket,Fashion,Summer Sale Campaign,Email,Q2,2550,78000,3900,195,5%,29250,0.05,0.65,10.47
+5/10/2023,South,Power Bank,Electronics,Search Engine Ads Campaign,Direct Mail,Q2,5000,54000,1620,81,5%,20250,0.03,3.09,3.05
+5/17/2023,East,Running Shoes,Fashion,Summer Sale Campaign,Social Media,Q2,3150,97000,3880,194,5%,29100,0.04,0.81,8.24
+5/24/2023,South,Wireless Earbuds,Electronics,Retargeting Campaign,Email,Q2,2250,74000,3700,185,5%,27750,0.05,0.61,11.33
+5/31/2023,South,Protein Powder,Health & Fitness,Retargeting Campaign,Search Engine,Q2,3450,109000,4360,218,5%,32700,0.04,0.79,8.48
+6/7/2023,South,Smart Watch,Electronics,Summer Sale Campaign,Email,Q2,1950,68000,3400,170,5%,25500,0.05,0.57,12.08
+6/14/2023,East,Sneakers,Fashion,Summer Sale Campaign,Direct Mail,Q2,5600,60000,1800,90,5%,22500,0.03,3.11,3.02
+6/21/2023,West,Smart Watch,Electronics,Seasonal Discount Campaign,Social Media,Q2,3350,101000,4040,202,5%,30300,0.04,0.83,8.04
+6/28/2023,South,Laptop Stand,Electronics,Summer Sale Campaign,Email,Q2,2450,77000,3850,192,5%,28875,0.05,0.64,10.79
+7/5/2023,West,Laptop Stand,Electronics,Search Engine Ads Campaign,Search Engine,Q3,3650,114000,4560,228,5%,34200,0.04,0.8,8.37
+7/12/2023,East,Gym Gloves,Health & Fitness,Email Promotion,Email,Q3,2250,73000,3650,182,5%,27375,0.05,0.62,11.17
+7/19/2023,South,Running Shoes,Fashion,Summer Sale Campaign,Direct Mail,Q3,5500,59000,1770,88,5%,22125,0.03,3.11,3.02
+7/26/2023,North,Sneakers,Fashion,Social Media Boost Campaign,Social Media,Q3,3250,99000,3960,198,5%,29700,0.04,0.82,8.14
+8/2/2023,North,Protein Powder,Health & Fitness,Brand Awareness Campaign,Email,Q3,2050,71000,3550,178,5%,26625,0.05,0.58,11.99
+8/9/2023,South,Sneakers,Fashion,Summer Sale Campaign,Search Engine,Q3,3850,119000,4760,238,5%,35700,0.04,0.81,8.27
+8/16/2023,North,Gaming Mouse,Electronics,Summer Sale Campaign,Email,Q3,2550,79000,3950,198,5%,29625,0.05,0.65,10.62
+8/23/2023,North,Sneakers,Fashion,New Product Launch,Direct Mail,Q3,5300,57000,1710,86,5%,21375,0.03,3.1,3.03
+8/30/2023,East,Wireless Earbuds,Electronics,Summer Sale Campaign,Social Media,Q3,3150,96000,3840,192,5%,28800,0.04,0.82,8.14
+9/6/2023,East,Smart Watch,Electronics,Email Promotion,Email,Q3,2350,75000,3750,188,5%,28125,0.05,0.63,10.97
+9/13/2023,South,Mechanical Keyboard,Electronics,Summer Sale Campaign,Search Engine,Q3,3950,122000,4880,244,5%,36600,0.04,0.81,8.27
+9/20/2023,North,Smart Watch,Electronics,Retargeting Campaign,Email,Q3,2650,81000,4050,202,5%,30375,0.05,0.65,10.46
+9/27/2023,South,Protein Powder,Health & Fitness,Retargeting Campaign,Direct Mail,Q4,5700,61000,1830,92,5%,22875,0.03,3.11,3.01
+10/4/2023,South,Multivitamins,Health & Fitness,Retargeting Campaign,Social Media,Q4,3450,104000,4160,208,5%,31200,0.04,0.83,8.04
+10/11/2023,East,Running Shoes,Fashion,Summer Sale Campaign,Email,Q4,2750,83000,4150,208,5%,31125,0.05,0.66,10.32
+10/18/2023,North,Power Bank,Electronics,Summer Sale Campaign,Search Engine,Q4,3750,117000,4680,234,5%,35100,0.04,0.8,8.36
+10/25/2023,South,Gym Gloves,Health & Fitness,Retargeting Campaign,Email,Q4,2450,77000,3850,192,5%,28875,0.05,0.64,10.79
+11/1/2023,East,Resistance Bands,Health & Fitness,Search Engine Ads Campaign,Direct Mail,Q4,5900,62000,1860,93,5%,23250,0.03,3.17,2.94
+11/8/2023,West,Sneakers,Fashion,Social Media Boost Campaign,Social Media,Q4,3550,107000,4280,214,5%,32100,0.04,0.83,8.04
+11/15/2023,South,Gym Gloves,Health & Fitness,Retargeting Campaign,Email,Q4,2850,85000,4250,212,5%,31875,0.05,0.67,10.18
+11/22/2023,East,Denim Jeans,Fashion,Search Engine Ads Campaign,Search Engine,Q4,3950,121000,4840,242,5%,36300,0.04,0.82,8.19
+11/29/2023,East,Hoodie,Fashion,Search Engine Ads Campaign,Email,Q4,2650,81000,4050,202,5%,30375,0.05,0.65,10.46
+12/6/2023,North,Gaming Mouse,Electronics,Seasonal Discount Campaign,Direct Mail,Q4,5800,61000,1830,92,5%,22875,0.03,3.17,2.94
+12/13/2023,South,Hoodie,Fashion,Summer Sale Campaign,Social Media,Q4,3650,110000,4400,220,5%,33000,0.04,0.83,8.04
+12/20/2023,East,Wireless Earbuds,Electronics,New Product Launch,Email,Q4,2550,79000,3950,198,5%,29625,0.05,0.65,10.62
+12/27/2023,West,Hoodie,Fashion,Social Media Boost Campaign,Search Engine,Q4,4050,124000,4960,248,5%,37200,0.04,0.82,8.19
+1/3/2024,East,Running Shoes,Fashion,Summer Sale Campaign,Email,Q1,1550,60000,3000,150,5%,22500,0.05,0.52,13.52
+1/10/2024,West,Resistance Bands,Health & Fitness,Summer Sale Campaign,Search Engine,Q1,2950,92000,3680,184,5%,27600,0.04,0.8,8.36
+1/17/2024,North,Bluetooth Speaker,Electronics,Brand Awareness Campaign,Social Media,Q1,2350,75000,3750,188,5%,28125,0.05,0.63,10.97
+1/24/2024,North,Running Shoes,Fashion,Retargeting Campaign,Direct Mail,Q1,4900,53000,1590,80,5%,19875,0.03,3.08,3.06
+1/31/2024,South,Sports Jacket,Fashion,Retargeting Campaign,Social Media,Q1,3050,93000,3720,186,5%,27900,0.04,0.82,8.15
+2/7/2024,West,Wireless Earbuds,Electronics,Search Engine Ads Campaign,Email,Q1,1850,65000,3250,162,5%,24375,0.05,0.57,12.18
+2/14/2024,West,Casual T-Shirt,Fashion,Email Promotion,Search Engine,Q1,3450,108000,4320,216,5%,32400,0.04,0.8,8.39
+2/21/2024,South,Bluetooth Speaker,Electronics,Summer Sale Campaign,Email,Q1,2050,70000,3500,175,5%,26250,0.05,0.59,11.8
+2/28/2024,South,Sneakers,Fashion,Summer Sale Campaign,Direct Mail,Q1,5400,58000,1740,87,5%,21750,0.03,3.1,3.03
+3/6/2024,North,Gym Gloves,Health & Fitness,Summer Sale Campaign,Social Media,Q1,2850,89000,3560,178,5%,26700,0.04,0.8,8.37
+3/13/2024,South,Running Shoes,Fashion,Retargeting Campaign,Email,Q1,2150,72000,3600,180,5%,27000,0.05,0.6,11.56
+3/20/2024,West,Casual T-Shirt,Fashion,Influencer Marketing Campaign,Search Engine,Q2,3650,114000,4560,228,5%,34200,0.04,0.8,8.37
+3/27/2024,West,Multivitamins,Health & Fitness,Email Promotion,Email,Q2,2450,77000,3850,192,5%,28875,0.05,0.64,10.79
+4/3/2024,South,Gaming Mouse,Electronics,Cart Abandonment Campaign,Direct Mail,Q2,5600,60000,1800,90,5%,22500,0.03,3.11,3.02
+4/10/2024,North,Mechanical Keyboard,Electronics,Social Media Boost Campaign,Social Media,Q2,3150,97000,3880,194,5%,29100,0.04,0.81,8.24
+4/17/2024,West,Sneakers,Fashion,Retargeting Campaign,Email,Q2,2250,74000,3700,185,5%,27750,0.05,0.61,11.33
+4/24/2024,South,Fitness Tracker,Electronics,Retargeting Campaign,Search Engine,Q2,3850,120000,4800,240,5%,36000,0.04,0.8,8.35
+5/1/2024,South,Denim Jeans,Fashion,Summer Sale Campaign,Email,Q2,2650,81000,4050,202,5%,30375,0.05,0.65,10.46
+5/8/2024,South,Protein Powder,Health & Fitness,Influencer Marketing Campaign,Direct Mail,Q2,5200,56000,1680,84,5%,21000,0.03,3.1,3.04
+5/15/2024,West,Fitness Tracker,Electronics,Summer Sale Campaign,Social Media,Q2,3250,100000,4000,200,5%,30000,0.04,0.81,8.23
+5/22/2024,West,Sneakers,Fashion,Seasonal Discount Campaign,Email,Q2,2350,76000,3800,190,5%,28500,0.05,0.62,11.13
+5/29/2024,North,Gaming Mouse,Electronics,Email Promotion,Search Engine,Q2,3550,112000,4480,224,5%,33600,0.04,0.79,8.46
+6/5/2024,West,Smart Watch,Electronics,Social Media Boost Campaign,Email,Q2,2050,71000,3550,178,5%,26625,0.05,0.58,11.99
+6/12/2024,East,Hoodie,Fashion,Influencer Marketing Campaign,Direct Mail,Q2,5800,62000,1860,93,5%,23250,0.03,3.12,3.01
+6/19/2024,South,Laptop Stand,Electronics,Seasonal Discount Campaign,Social Media,Q2,3450,104000,4160,208,5%,31200,0.04,0.83,8.04
+6/26/2024,North,Smart Watch,Electronics,Summer Sale Campaign,Email,Q2,2550,79000,3950,198,5%,29625,0.05,0.65,10.62
+7/3/2024,East,Casual T-Shirt,Fashion,Loyalty Program Campaign,Search Engine,Q3,3750,117000,4680,234,5%,35100,0.04,0.8,8.36
+7/10/2024,South,Fitness Tracker,Electronics,Social Media Boost Campaign,Email,Q3,2350,75000,3750,188,5%,28125,0.05,0.63,10.97
+7/17/2024,North,Smart Watch,Electronics,Retargeting Campaign,Direct Mail,Q3,5700,61000,1830,92,5%,22875,0.03,3.11,3.01
+7/24/2024,North,Wireless Earbuds,Electronics,Influencer Marketing Campaign,Social Media,Q3,3350,102000,4080,204,5%,30600,0.04,0.82,8.13
+7/31/2024,South,Gaming Mouse,Electronics,Social Media Boost Campaign,Email,Q3,2150,73000,3650,182,5%,27375,0.05,0.59,11.73
+8/7/2024,West,Gaming Mouse,Electronics,New Product Launch,Search Engine,Q3,3950,122000,4880,244,5%,36600,0.04,0.81,8.27
+8/14/2024,West,Hoodie,Fashion,Summer Sale Campaign,Email,Q3,2650,81000,4050,202,5%,30375,0.05,0.65,10.46
+8/21/2024,West,Casual T-Shirt,Fashion,Search Engine Ads Campaign,Direct Mail,Q3,5500,59000,1770,88,5%,22125,0.03,3.11,3.02
+8/28/2024,South,Multivitamins,Health & Fitness,Summer Sale Campaign,Social Media,Q3,3250,99000,3960,198,5%,29700,0.04,0.82,8.14
+9/4/2024,North,Hoodie,Fashion,Summer Sale Campaign,Email,Q3,2450,77000,3850,192,5%,28875,0.05,0.64,10.79
+9/11/2024,West,Mechanical Keyboard,Electronics,Influencer Marketing Campaign,Search Engine,Q4,4050,125000,5000,250,5%,37500,0.04,0.81,8.26
+9/18/2024,North,Sports Jacket,Fashion,New Product Launch,Email,Q4,2750,84000,4200,210,5%,31500,0.05,0.65,10.45
+9/25/2024,South,Yoga Pants,Fashion,Loyalty Program Campaign,Direct Mail,Q4,5900,63000,1890,94,5%,23625,0.03,3.12,3
+10/2/2024,West,Power Bank,Electronics,Influencer Marketing Campaign,Social Media,Q4,3550,108000,4320,216,5%,32400,0.04,0.82,8.13
+10/9/2024,South,Mechanical Keyboard,Electronics,New Product Launch,Email,Q4,2850,86000,4300,215,5%,32250,0.05,0.66,10.32
+10/16/2024,East,Casual T-Shirt,Fashion,Retargeting Campaign,Search Engine,Q4,3850,121000,4840,242,5%,36300,0.04,0.8,8.43
+10/23/2024,North,Protein Powder,Health & Fitness,Email Promotion,Email,Q4,2550,79000,3950,198,5%,29625,0.05,0.65,10.62
+10/30/2024,South,Power Bank,Electronics,Summer Sale Campaign,Direct Mail,Q4,6100,64000,1920,96,5%,24000,0.03,3.18,2.93
+11/6/2024,South,Denim Jeans,Fashion,Retargeting Campaign,Social Media,Q4,3650,110000,4400,220,5%,33000,0.04,0.83,8.04
+11/13/2024,East,Yoga Pants,Fashion,New Product Launch,Email,Q4,2950,88000,4400,220,5%,33000,0.05,0.67,10.19
+11/20/2024,East,Hoodie,Fashion,Loyalty Program Campaign,Search Engine,Q4,4050,125000,5000,250,5%,37500,0.04,0.81,8.26
+11/27/2024,North,Power Bank,Electronics,New Product Launch,Email,Q4,2750,84000,4200,210,5%,31500,0.05,0.65,10.45
+12/4/2024,West,Yoga Pants,Fashion,Email Promotion,Direct Mail,Q4,6000,63000,1890,94,5%,23625,0.03,3.17,2.94
+12/11/2024,North,Multivitamins,Health & Fitness,Retargeting Campaign,Social Media,Q4,3750,113000,4520,226,5%,33900,0.04,0.83,8.04
+12/18/2024,East,Gaming Mouse,Electronics,Summer Sale Campaign,Email,Q4,2650,81000,4050,202,5%,30375,0.05,0.65,10.46
+12/25/2024,East,Denim Jeans,Fashion,Email Promotion,Search Engine,Q4,4150,127000,5080,254,5%,38100,0.04,0.82,8.18
+5/19/2024,West,Power Bank,Electronics,Loyalty Program Campaign,Social Media,Q4,2417.89,8982,282,29,10%,10829.6,0.0314,8.57,3.4789
+2/25/2024,South,Wireless Earbuds,Electronics,Email Promotion,Social Media,Q4,2712.51,9938,859,2,0%,4735.08,0.0864,3.16,0.7456
+11/26/2023,West,Gaming Mouse,Electronics,Retargeting Campaign,Email,Q4,2088.39,2859,933,44,5%,4436.96,0.3263,2.24,1.1246
+11/19/2023,West,Sneakers,Fashion,Retargeting Campaign,Social Media,Q3,688.4,4477,205,38,19%,17378.22,0.0458,3.36,24.2444
+4/23/2023,West,Hoodie,Fashion,Social Media Boost Campaign,Search Engine,Q2,2426.42,6635,822,14,2%,12020.84,0.1239,2.95,3.9541
+4/16/2023,West,Wireless Earbuds,Electronics,Retargeting Campaign,Direct Mail,Q3,2191.96,9477,898,42,5%,18187.47,0.0948,2.44,7.2974
+6/18/2023,South,Mechanical Keyboard,Electronics,Loyalty Program Campaign,Search Engine,Q1,2529.77,5797,633,11,2%,8063.26,0.1092,4,2.1873
+5/19/2024,West,Fitness Tracker,Electronics,Summer Sale Campaign,Social Media,Q4,2417.89,8982,282,29,10%,10829.6,0.0314,8.57,3.4789
+5/14/2023,North,Gaming Mouse,Electronics,Seasonal Discount Campaign,Search Engine,Q4,1233.05,6000,870,19,2%,17779.58,0.145,1.42,13.4192
+2/4/2024,West,Gym Gloves,Health & Fitness,Flash Sale Campaign,Email,Q1,3258.37,6139,843,34,4%,16217.39,0.1373,3.87,3.9771
+10/15/2023,West,Hoodie,Fashion,Summer Sale Campaign,Direct Mail,Q1,4860.17,9056,222,37,17%,12814.42,0.0245,21.89,1.6366
+3/17/2024,West,Bluetooth Speaker,Electronics,Retargeting Campaign,Direct Mail,Q3,560.38,9916,916,50,5%,9119.65,0.0924,0.61,15.274
+12/24/2023,West,Casual T-Shirt,Fashion,Summer Sale Campaign,Direct Mail,Q3,1730.76,8184,821,33,4%,7941.68,0.1003,2.11,3.5886
+9/17/2023,East,Sports Jacket,Fashion,Retargeting Campaign,Direct Mail,Q2,2760.36,5113,449,2,0%,6173,0.0878,6.15,1.2363
+3/10/2024,East,Gaming Mouse,Electronics,Loyalty Program Campaign,Social Media,Q3,4080.86,3958,336,20,6%,16097.73,0.0849,12.15,2.9447
+12/4/2024,North,Hoodie,Fashion,Social Media Boost Campaign,Direct Mail,Q3,1730.76,8184,821,33,4%,7941.68,0.1003,2.11,3.5886
+12/11/2024,North,Power Bank,Electronics,Retargeting Campaign,Search Engine,Q1,2828.02,5429,502,17,3%,5384.96,0.0925,5.63,0.9041
+12/18/2024,North,Running Shoes,Fashion,Summer Sale Campaign,Email,Q3,969.39,8563,879,2,0%,10178.95,0.1027,1.1,9.5004
+12/25/2024,South,Sports Jacket,Fashion,Social Media Boost Campaign,Social Media,Q3,688.4,4477,205,38,19%,17378.22,0.0458,3.36,24.2444
+5/7/2023,North,Power Bank,Electronics,Retargeting Campaign,Direct Mail,Q2,2947.59,6421,409,32,8%,13245.18,0.0637,7.21,3.4936
+11/26/2023,South,Sneakers,Fashion,Seasonal Discount Campaign,Email,Q4,2088.39,2859,933,44,5%,4436.96,0.3263,2.24,1.1246
+5/28/2023,South,Yoga Pants,Fashion,Search Engine Ads Campaign,Search Engine,Q2,1358.97,8342,147,37,25%,3523.57,0.0176,9.24,1.5928
+6/16/2024,South,Laptop Stand,Electronics,Flash Sale Campaign,Email,Q1,3114.54,7818,441,39,9%,7945.99,0.0564,7.06,1.5513
+3/10/2024,West,Yoga Pants,Fashion,Email Promotion,Social Media,Q3,4080.86,3958,336,20,6%,16097.73,0.0849,12.15,2.9447
+8/20/2023,East,Laptop Stand,Electronics,Summer Sale Campaign,Social Media,Q3,3283.84,5414,643,4,1%,19911.6,0.1188,5.11,5.0635
+1/5/2023,West,Power Bank,Electronics,Loyalty Program Campaign,Email,Q1,1650,61000,3050,152,5%,22875,0.05,0.54,12.86
+12/4/2024,East,Fitness Tracker,Electronics,Retargeting Campaign,Search Engine,Q1,3050,95000,3800,190,5%,28500,0.04,0.8,8.34
+12/11/2024,East,Protein Powder,Health & Fitness,Search Engine Ads Campaign,Social Media,Q1,2450,78000,3900,195,5%,29250,0.05,0.63,10.94
+12/18/2024,North,Smart Watch,Electronics,Search Engine Ads Campaign,Direct Mail,Q1,5000,54000,1620,81,5%,20250,0.03,3.09,3.05
+12/25/2024,East,Bluetooth Speaker,Electronics,Email Promotion,Social Media,Q1,3150,98000,3920,196,5%,29400,0.04,0.8,8.33
+2/9/2023,South,Smart Watch,Electronics,Brand Awareness Campaign,Email,Q1,1950,68000,3400,170,5%,25500,0.05,0.57,12.08
+2/16/2023,West,Running Shoes,Fashion,Retargeting Campaign,Search Engine,Q1,3550,112000,4480,224,5%,33600,0.04,0.79,8.46
+2/23/2023,North,Yoga Pants,Fashion,Summer Sale Campaign,Email,Q1,2150,72000,3600,180,5%,27000,0.05,0.6,11.56
+3/2/2023,South,Yoga Pants,Fashion,New Product Launch,Direct Mail,Q1,5500,59000,1770,88,5%,22125,0.03,3.11,3.02
+3/9/2023,North,Smart Watch,Electronics,Influencer Marketing Campaign,Social Media,Q1,2950,92000,3680,184,5%,27600,0.04,0.8,8.36
+3/16/2023,East,Power Bank,Electronics,Retargeting Campaign,Email,Q1,2250,74000,3700,185,5%,27750,0.05,0.61,11.33
+3/23/2023,North,Mechanical Keyboard,Electronics,Cart Abandonment Campaign,Search Engine,Q2,3750,118000,4720,236,5%,35400,0.04,0.79,8.44
+3/30/2023,North,Resistance Bands,Health & Fitness,Retargeting Campaign,Email,Q2,2550,79000,3950,198,5%,29625,0.05,0.65,10.62
+4/6/2023,West,Casual T-Shirt,Fashion,Summer Sale Campaign,Direct Mail,Q2,5700,61000,1830,92,5%,22875,0.03,3.11,3.01
+4/13/2023,South,Sports Jacket,Fashion,Search Engine Ads Campaign,Social Media,Q2,3250,100000,4000,200,5%,30000,0.04,0.81,8.23
+4/20/2023,North,Gaming Mouse,Electronics,Summer Sale Campaign,Email,Q2,2350,76000,3800,190,5%,28500,0.05,0.62,11.13
+4/27/2023,North,Fitness Tracker,Electronics,Search Engine Ads Campaign,Search Engine,Q2,3950,122000,4880,244,5%,36600,0.04,0.81,8.27
+5/4/2023,North,Gym Gloves,Health & Fitness,Social Media Boost Campaign,Email,Q2,2750,84000,4200,210,5%,31500,0.05,0.65,10.45
+5/11/2023,North,Denim Jeans,Fashion,Retargeting Campaign,Direct Mail,Q2,5300,57000,1710,86,5%,21375,0.03,3.1,3.03
+5/18/2023,West,Protein Powder,Health & Fitness,Retargeting Campaign,Social Media,Q2,3350,102000,4080,204,5%,30600,0.04,0.82,8.13
+5/25/2023,South,Gaming Mouse,Electronics,New Product Launch,Email,Q2,2450,78000,3900,195,5%,29250,0.05,0.63,10.94
+6/1/2023,East,Bluetooth Speaker,Electronics,Summer Sale Campaign,Search Engine,Q2,3650,115000,4600,230,5%,34500,0.04,0.79,8.45
+6/8/2023,West,Smart Watch,Electronics,Summer Sale Campaign,Email,Q2,2150,73000,3650,182,5%,27375,0.05,0.59,11.73
+6/15/2023,South,Fitness Tracker,Electronics,New Product Launch,Direct Mail,Q2,5900,62000,1860,93,5%,23250,0.03,3.17,2.94
+6/22/2023,West,Bluetooth Speaker,Electronics,Social Media Boost Campaign,Social Media,Q2,3550,108000,4320,216,5%,32400,0.04,0.82,8.13
+6/29/2023,North,Denim Jeans,Fashion,Seasonal Discount Campaign,Email,Q2,2650,82000,4100,205,5%,30750,0.05,0.65,10.6
+7/6/2023,North,Hoodie,Fashion,Summer Sale Campaign,Search Engine,Q3,3850,120000,4800,240,5%,36000,0.04,0.8,8.35
+7/13/2023,North,Multivitamins,Health & Fitness,Summer Sale Campaign,Email,Q3,2450,77000,3850,192,5%,28875,0.05,0.64,10.79
+7/20/2023,West,Wireless Earbuds,Electronics,Summer Sale Campaign,Direct Mail,Q3,5800,62000,1860,93,5%,23250,0.03,3.12,3.01
+7/27/2023,East,Resistance Bands,Health & Fitness,Influencer Marketing Campaign,Social Media,Q3,3450,105000,4200,210,5%,31500,0.04,0.82,8.13
+8/3/2023,West,Running Shoes,Fashion,New Product Launch,Email,Q3,2250,74000,3700,185,5%,27750,0.05,0.61,11.33
+8/10/2023,North,Running Shoes,Fashion,New Product Launch,Search Engine,Q3,4050,125000,5000,250,5%,37500,0.04,0.81,8.26
+8/17/2023,South,Protein Powder,Health & Fitness,Social Media Boost Campaign,Email,Q3,2750,85000,4250,212,5%,31875,0.05,0.65,10.59
+8/24/2023,East,Denim Jeans,Fashion,Summer Sale Campaign,Direct Mail,Q3,5600,60000,1800,90,5%,22500,0.03,3.11,3.02
+8/31/2023,South,Laptop Stand,Electronics,Summer Sale Campaign,Social Media,Q3,3350,102000,4080,204,5%,30600,0.04,0.82,8.13
+9/7/2023,East,Fitness Tracker,Electronics,Retargeting Campaign,Email,Q3,2550,79000,3950,198,5%,29625,0.05,0.65,10.62
+9/14/2023,South,Multivitamins,Health & Fitness,New Product Launch,Search Engine,Q3,4150,128000,5120,256,5%,38400,0.04,0.81,8.25
+9/21/2023,West,Smart Watch,Electronics,Summer Sale Campaign,Email,Q3,2850,87000,4350,218,5%,32625,0.05,0.66,10.45
+9/28/2023,North,Power Bank,Electronics,Retargeting Campaign,Direct Mail,Q4,6000,63000,1890,94,5%,23625,0.03,3.17,2.94
+10/5/2023,South,Mechanical Keyboard,Electronics,Flash Sale Campaign,Social Media,Q4,3650,111000,4440,222,5%,33300,0.04,0.82,8.12
+10/12/2023,North,Gym Gloves,Health & Fitness,Summer Sale Campaign,Email,Q4,2950,89000,4450,222,5%,33375,0.05,0.66,10.31
+10/19/2023,East,Running Shoes,Fashion,Summer Sale Campaign,Search Engine,Q4,3950,123000,4920,246,5%,36900,0.04,0.8,8.34
+10/26/2023,West,Smart Watch,Electronics,New Product Launch,Email,Q4,2650,82000,4100,205,5%,30750,0.05,0.65,10.6
+11/2/2023,East,Gaming Mouse,Electronics,Search Engine Ads Campaign,Direct Mail,Q4,6200,65000,1950,98,5%,24375,0.03,3.18,2.93
+11/9/2023,North,Smart Watch,Electronics,Search Engine Ads Campaign,Social Media,Q4,3750,114000,4560,228,5%,34200,0.04,0.82,8.12
+11/16/2023,North,Denim Jeans,Fashion,Social Media Boost Campaign,Email,Q4,3050,93000,4650,232,5%,34875,0.05,0.66,10.43
+11/23/2023,West,Gym Gloves,Health & Fitness,Seasonal Discount Campaign,Search Engine,Q4,4250,131000,5240,262,5%,39300,0.04,0.81,8.25
+11/30/2023,East,Denim Jeans,Fashion,Social Media Boost Campaign,Email,Q4,2850,86000,4300,215,5%,32250,0.05,0.66,10.32
+12/7/2023,South,Protein Powder,Health & Fitness,Search Engine Ads Campaign,Direct Mail,Q4,6100,64000,1920,96,5%,24000,0.03,3.18,2.93
+12/14/2023,East,Protein Powder,Health & Fitness,Retargeting Campaign,Social Media,Q4,3850,118000,4720,236,5%,35400,0.04,0.82,8.19
+12/21/2023,North,Sneakers,Fashion,Summer Sale Campaign,Email,Q4,2750,84000,4200,210,5%,31500,0.05,0.65,10.45
+12/28/2023,West,Gaming Mouse,Electronics,Email Promotion,Search Engine,Q4,4350,134000,5360,268,5%,40200,0.04,0.81,8.24
+1/4/2024,South,Yoga Pants,Fashion,Summer Sale Campaign,Email,Q1,1750,64000,3200,160,5%,24000,0.05,0.55,12.71
+1/11/2024,North,Protein Powder,Health & Fitness,Email Promotion,Search Engine,Q1,3150,98000,3920,196,5%,29400,0.04,0.8,8.33
+1/18/2024,South,Bluetooth Speaker,Electronics,New Product Launch,Social Media,Q1,2550,80000,4000,200,5%,30000,0.05,0.64,10.76
+1/25/2024,East,Yoga Pants,Fashion,Search Engine Ads Campaign,Direct Mail,Q1,5200,56000,1680,84,5%,21000,0.03,3.1,3.04
+2/1/2024,North,Mechanical Keyboard,Electronics,Email Promotion,Social Media,Q1,3250,100000,4000,200,5%,30000,0.04,0.81,8.23
+2/8/2024,East,Denim Jeans,Fashion,Search Engine Ads Campaign,Email,Q1,2050,71000,3550,178,5%,26625,0.05,0.58,11.99
+2/15/2024,South,Running Shoes,Fashion,Retargeting Campaign,Search Engine,Q1,3650,115000,4600,230,5%,34500,0.04,0.79,8.45
+2/22/2024,West,Mechanical Keyboard,Electronics,Influencer Marketing Campaign,Email,Q1,2250,74000,3700,185,5%,27750,0.05,0.61,11.33
+2/29/2024,North,Sports Jacket,Fashion,Search Engine Ads Campaign,Direct Mail,Q1,5700,61000,1830,92,5%,22875,0.03,3.11,3.01
+3/7/2024,West,Denim Jeans,Fashion,Social Media Boost Campaign,Social Media,Q1,3050,95000,3800,190,5%,28500,0.04,0.8,8.34
+3/14/2024,West,Denim Jeans,Fashion,Summer Sale Campaign,Email,Q1,2350,76000,3800,190,5%,28500,0.05,0.62,11.13
+3/21/2024,South,Fitness Tracker,Electronics,Search Engine Ads Campaign,Search Engine,Q2,3850,121000,4840,242,5%,36300,0.04,0.8,8.43
+3/28/2024,South,Sneakers,Fashion,New Product Launch,Email,Q2,2650,81000,4050,202,5%,30375,0.05,0.65,10.46
+4/4/2024,West,Fitness Tracker,Electronics,Summer Sale Campaign,Direct Mail,Q2,5900,62000,1860,93,5%,23250,0.03,3.17,2.94
+4/11/2024,South,Hoodie,Fashion,Flash Sale Campaign,Social Media,Q2,3350,103000,4120,206,5%,30900,0.04,0.81,8.22
+4/18/2024,West,Running Shoes,Fashion,New Product Launch,Email,Q2,2450,78000,3900,195,5%,29250,0.05,0.63,10.94
+4/25/2024,North,Mechanical Keyboard,Electronics,Summer Sale Campaign,Search Engine,Q2,4050,125000,5000,250,5%,37500,0.04,0.81,8.26
+5/2/2024,West,Multivitamins,Health & Fitness,Search Engine Ads Campaign,Email,Q2,2850,86000,4300,215,5%,32250,0.05,0.66,10.32
+5/9/2024,South,Denim Jeans,Fashion,Retargeting Campaign,Direct Mail,Q2,5500,59000,1770,88,5%,22125,0.03,3.11,3.02
+5/16/2024,South,Multivitamins,Health & Fitness,Search Engine Ads Campaign,Social Media,Q2,3450,105000,4200,210,5%,31500,0.04,0.82,8.13
+5/23/2024,South,Laptop Stand,Electronics,Summer Sale Campaign,Email,Q2,2550,79000,3950,198,5%,29625,0.05,0.65,10.62
+5/30/2024,South,Sneakers,Fashion,Summer Sale Campaign,Search Engine,Q2,3750,118000,4720,236,5%,35400,0.04,0.79,8.44
+6/6/2024,South,Smart Watch,Electronics,Retargeting Campaign,Email,Q2,2250,75000,3750,188,5%,28125,0.05,0.6,11.5
+6/13/2024,North,Wireless Earbuds,Electronics,Retargeting Campaign,Direct Mail,Q2,6100,64000,1920,96,5%,24000,0.03,3.18,2.93
+6/20/2024,North,Gaming Mouse,Electronics,Loyalty Program Campaign,Social Media,Q2,3650,111000,4440,222,5%,33300,0.04,0.82,8.12
+6/27/2024,East,Sneakers,Fashion,Search Engine Ads Campaign,Email,Q2,2750,84000,4200,210,5%,31500,0.05,0.65,10.45
+7/4/2024,South,Resistance Bands,Health & Fitness,New Product Launch,Search Engine,Q3,3950,123000,4920,246,5%,36900,0.04,0.8,8.34
+7/11/2024,South,Yoga Pants,Fashion,Cart Abandonment Campaign,Email,Q3,2550,79000,3950,198,5%,29625,0.05,0.65,10.62
+7/18/2024,West,Fitness Tracker,Electronics,Summer Sale Campaign,Direct Mail,Q3,6000,63000,1890,94,5%,23625,0.03,3.17,2.94
+7/25/2024,North,Sneakers,Fashion,New Product Launch,Social Media,Q3,3550,108000,4320,216,5%,32400,0.04,0.82,8.13
+8/1/2024,South,Gaming Mouse,Electronics,Email Promotion,Email,Q3,2350,76000,3800,190,5%,28500,0.05,0.62,11.13
+8/8/2024,East,Gaming Mouse,Electronics,Summer Sale Campaign,Search Engine,Q3,4150,128000,5120,256,5%,38400,0.04,0.81,8.25
+8/15/2024,West,Power Bank,Electronics,Summer Sale Campaign,Email,Q3,2850,86000,4300,215,5%,32250,0.05,0.66,10.32
+8/22/2024,North,Gym Gloves,Health & Fitness,Loyalty Program Campaign,Direct Mail,Q3,5800,62000,1860,93,5%,23250,0.03,3.12,3.01
+8/29/2024,West,Casual T-Shirt,Fashion,Email Promotion,Social Media,Q3,3450,105000,4200,210,5%,31500,0.04,0.82,8.13
+9/5/2024,South,Hoodie,Fashion,Summer Sale Campaign,Email,Q3,2650,81000,4050,202,5%,30375,0.05,0.65,10.46
+9/12/2024,West,Bluetooth Speaker,Electronics,Summer Sale Campaign,Search Engine,Q4,4250,131000,5240,262,5%,39300,0.04,0.81,8.25
+9/19/2024,South,Sneakers,Fashion,New Product Launch,Email,Q4,2950,89000,4450,222,5%,33375,0.05,0.66,10.31
+9/26/2024,South,Power Bank,Electronics,Summer Sale Campaign,Direct Mail,Q4,6200,65000,1950,98,5%,24375,0.03,3.18,2.93
+10/3/2024,South,Hoodie,Fashion,Flash Sale Campaign,Social Media,Q4,3750,114000,4560,228,5%,34200,0.04,0.82,8.12
+10/10/2024,South,Fitness Tracker,Electronics,Retargeting Campaign,Email,Q4,3050,93000,4650,232,5%,34875,0.05,0.66,10.43
+10/17/2024,South,Yoga Pants,Fashion,Retargeting Campaign,Search Engine,Q4,4050,126000,5040,252,5%,37800,0.04,0.8,8.33
+10/24/2024,South,Multivitamins,Health & Fitness,Retargeting Campaign,Email,Q4,2750,84000,4200,210,5%,31500,0.05,0.65,10.45
+10/31/2024,South,Mechanical Keyboard,Electronics,Flash Sale Campaign,Direct Mail,Q4,6300,66000,1980,99,5%,24750,0.03,3.18,2.93
+11/7/2024,East,Casual T-Shirt,Fashion,Social Media Boost Campaign,Social Media,Q4,3850,118000,4720,236,5%,35400,0.04,0.82,8.19
+11/14/2024,East,Mechanical Keyboard,Electronics,Summer Sale Campaign,Email,Q4,3150,96000,4800,240,5%,36000,0.05,0.66,10.43
+11/21/2024,North,Mechanical Keyboard,Electronics,Social Media Boost Campaign,Search Engine,Q4,4350,134000,5360,268,5%,40200,0.04,0.81,8.24
+11/28/2024,South,Sneakers,Fashion,Social Media Boost Campaign,Email,Q4,2950,89000,4450,222,5%,33375,0.05,0.66,10.31
+12/5/2024,North,Multivitamins,Health & Fitness,Summer Sale Campaign,Direct Mail,Q4,6300,66000,1980,99,5%,24750,0.03,3.18,2.93
+12/12/2024,East,Wireless Earbuds,Electronics,Social Media Boost Campaign,Social Media,Q4,3950,121000,4840,242,5%,36300,0.04,0.82,8.19
+12/19/2024,South,Casual T-Shirt,Fashion,Summer Sale Campaign,Email,Q4,2850,86000,4300,215,5%,32250,0.05,0.66,10.32
+12/26/2024,North,Sneakers,Fashion,Email Promotion,Search Engine,Q4,4450,137000,5480,274,5%,41100,0.04,0.81,8.24
+1/6/2023,North,Gaming Mouse,Electronics,Social Media Boost Campaign,Social Media,Q1,2850,87000,3480,174,5%,26100,0.04,0.82,8.16
+1/13/2023,West,Gaming Mouse,Electronics,New Product Launch,Email,Q1,1750,64000,3200,160,5%,24000,0.05,0.55,12.71
+1/20/2023,North,Gym Gloves,Health & Fitness,Seasonal Discount Campaign,Search Engine,Q1,3350,105000,4200,210,5%,31500,0.04,0.8,8.4
+1/27/2023,West,Power Bank,Electronics,Seasonal Discount Campaign,Direct Mail,Q1,5100,55000,1650,82,5%,20625,0.03,3.09,3.04
+2/3/2023,West,Bluetooth Speaker,Electronics,Email Promotion,Email,Q1,2050,70000,3500,175,5%,26250,0.05,0.59,11.8
+2/10/2023,West,Protein Powder,Health & Fitness,Social Media Boost Campaign,Social Media,Q1,3150,97000,3880,194,5%,29100,0.04,0.81,8.24
+2/17/2023,West,Yoga Pants,Fashion,Summer Sale Campaign,Email,Q1,2250,73000,3650,182,5%,27375,0.05,0.62,11.17
+2/24/2023,South,Gaming Mouse,Electronics,New Product Launch,Search Engine,Q1,3750,117000,4680,234,5%,35100,0.04,0.8,8.36
+3/3/2023,North,Resistance Bands,Health & Fitness,Social Media Boost Campaign,Direct Mail,Q1,5600,60000,1800,90,5%,22500,0.03,3.11,3.02
+3/10/2023,West,Denim Jeans,Fashion,Cart Abandonment Campaign,Email,Q1,2450,77000,3850,192,5%,28875,0.05,0.64,10.79
+3/17/2023,East,Fitness Tracker,Electronics,Retargeting Campaign,Social Media,Q1,3250,99000,3960,198,5%,29700,0.04,0.82,8.14
+3/24/2023,North,Multivitamins,Health & Fitness,Search Engine Ads Campaign,Email,Q2,2350,75000,3750,188,5%,28125,0.05,0.63,10.97
+3/31/2023,West,Gaming Mouse,Electronics,Summer Sale Campaign,Search Engine,Q2,3850,120000,4800,240,5%,36000,0.04,0.8,8.35
+4/7/2023,West,Hoodie,Fashion,Summer Sale Campaign,Direct Mail,Q2,5800,61000,1830,92,5%,22875,0.03,3.17,2.94
+4/14/2023,North,Yoga Pants,Fashion,Summer Sale Campaign,Email,Q2,2650,81000,4050,202,5%,30375,0.05,0.65,10.46
+4/21/2023,South,Yoga Mat,Health & Fitness,New Product Launch,Social Media,Q2,3450,104000,4160,208,5%,31200,0.04,0.83,8.04
+4/28/2023,South,Yoga Mat,Health & Fitness,Cart Abandonment Campaign,Email,Q2,2550,78000,3900,195,5%,29250,0.05,0.65,10.47
+5/5/2023,East,Yoga Pants,Fashion,Retargeting Campaign,Search Engine,Q2,3950,122000,4880,244,5%,36600,0.04,0.81,8.27
+5/12/2023,North,Power Bank,Electronics,Social Media Boost Campaign,Direct Mail,Q2,5400,58000,1740,87,5%,21750,0.03,3.1,3.03
+5/19/2023,East,Power Bank,Electronics,Cart Abandonment Campaign,Email,Q2,2750,84000,4200,210,5%,31500,0.05,0.65,10.45
+5/26/2023,South,Gym Gloves,Health & Fitness,Summer Sale Campaign,Social Media,Q2,3550,107000,4280,214,5%,32100,0.04,0.83,8.04
+6/2/2023,South,Sneakers,Fashion,Flash Sale Campaign,Email,Q2,2850,86000,4300,215,5%,32250,0.05,0.66,10.32
+6/9/2023,East,Fitness Tracker,Electronics,Summer Sale Campaign,Search Engine,Q2,4050,125000,5000,250,5%,37500,0.04,0.81,8.26
+6/16/2023,South,Casual T-Shirt,Fashion,Social Media Boost Campaign,Direct Mail,Q2,5700,60000,1800,90,5%,22500,0.03,3.17,2.95
+6/23/2023,North,Casual T-Shirt,Fashion,Summer Sale Campaign,Email,Q2,2950,89000,4450,222,5%,33375,0.05,0.66,10.31
+6/30/2023,South,Sneakers,Fashion,Social Media Boost Campaign,Social Media,Q3,3750,113000,4520,226,5%,33900,0.04,0.83,8.04
+7/7/2023,North,Hoodie,Fashion,Email Promotion,Email,Q3,3050,92000,4600,230,5%,34500,0.05,0.66,10.31
+7/14/2023,South,Hoodie,Fashion,Summer Sale Campaign,Search Engine,Q3,4250,131000,5240,262,5%,39300,0.04,0.81,8.25
+7/21/2023,South,Yoga Mat,Health & Fitness,Summer Sale Campaign,Direct Mail,Q3,6000,63000,1890,94,5%,23625,0.03,3.17,2.94
+7/28/2023,North,Wireless Earbuds,Electronics,Retargeting Campaign,Email,Q3,3150,95000,4750,238,5%,35625,0.05,0.66,10.31
+8/4/2023,East,Fitness Tracker,Electronics,Social Media Boost Campaign,Social Media,Q3,3850,117000,4680,234,5%,35100,0.04,0.82,8.12
+8/11/2023,West,Denim Jeans,Fashion,Cart Abandonment Campaign,Email,Q3,3250,98000,4900,245,5%,36750,0.05,0.66,10.31
+8/18/2023,South,Laptop Stand,Electronics,Summer Sale Campaign,Search Engine,Q3,4350,134000,5360,268,5%,40200,0.04,0.81,8.24
+8/25/2023,South,Smart Watch,Electronics,Summer Sale Campaign,Direct Mail,Q3,5900,62000,1860,93,5%,23250,0.03,3.17,2.94
+9/1/2023,East,Denim Jeans,Fashion,Social Media Boost Campaign,Email,Q3,3350,101000,5050,252,5%,37875,0.05,0.66,10.31
+9/8/2023,South,Sneakers,Fashion,Social Media Boost Campaign,Social Media,Q3,3950,120000,4800,240,5%,36000,0.04,0.82,8.11
+9/15/2023,East,Gym Gloves,Health & Fitness,Email Promotion,Email,Q3,3450,104000,5200,260,5%,39000,0.05,0.66,10.3
+9/22/2023,East,Bluetooth Speaker,Electronics,New Product Launch,Search Engine,Q4,4450,137000,5480,274,5%,41100,0.04,0.81,8.24
+9/29/2023,North,Resistance Bands,Health & Fitness,Email Promotion,Direct Mail,Q4,6200,65000,1950,98,5%,24375,0.03,3.18,2.93
+10/6/2023,South,Running Shoes,Fashion,Social Media Boost Campaign,Email,Q4,3550,107000,5350,268,5%,40125,0.05,0.66,10.3
+10/13/2023,North,Bluetooth Speaker,Electronics,Retargeting Campaign,Social Media,Q4,4050,123000,4920,246,5%,36900,0.04,0.82,8.11
+10/20/2023,West,Casual T-Shirt,Fashion,Email Promotion,Email,Q4,3650,110000,5500,275,5%,41250,0.05,0.66,10.3
+10/27/2023,South,Running Shoes,Fashion,Influencer Marketing Campaign,Search Engine,Q4,4550,140000,5600,280,5%,42000,0.04,0.81,8.23
+11/3/2023,North,Gaming Mouse,Electronics,New Product Launch,Direct Mail,Q4,6400,67000,2010,100,5%,25125,0.03,3.18,2.93
+11/10/2023,South,Smart Watch,Electronics,Email Promotion,Email,Q4,3750,113000,5650,282,5%,42375,0.05,0.66,10.3
+11/17/2023,North,Smart Watch,Electronics,Brand Awareness Campaign,Social Media,Q4,4150,126000,5040,252,5%,37800,0.04,0.82,8.11
+11/24/2023,East,Sports Jacket,Fashion,Summer Sale Campaign,Email,Q4,3850,116000,5800,290,5%,43500,0.05,0.66,10.3
+12/1/2023,East,Power Bank,Electronics,Summer Sale Campaign,Search Engine,Q4,4650,143000,5720,286,5%,42900,0.04,0.81,8.23
+12/8/2023,North,Mechanical Keyboard,Electronics,Social Media Boost Campaign,Direct Mail,Q4,6500,68000,2040,102,5%,25500,0.03,3.19,2.92
+12/15/2023,South,Resistance Bands,Health & Fitness,Seasonal Discount Campaign,Email,Q4,3950,119000,5950,298,5%,44625,0.05,0.66,10.3
+12/22/2023,North,Casual T-Shirt,Fashion,New Product Launch,Social Media,Q4,4250,129000,5160,258,5%,38700,0.04,0.82,8.11
+12/29/2023,West,Protein Powder,Health & Fitness,New Product Launch,Email,Q4,4050,122000,6100,305,5%,45750,0.05,0.66,10.3
+1/5/2024,West,Yoga Pants,Fashion,New Product Launch,Search Engine,Q1,4750,146000,5840,292,5%,43800,0.04,0.81,8.22
+1/12/2024,North,Gaming Mouse,Electronics,Flash Sale Campaign,Direct Mail,Q1,6600,69000,2070,104,5%,25875,0.03,3.19,2.92
+1/19/2024,North,Sneakers,Fashion,Summer Sale Campaign,Email,Q1,4150,125000,6250,312,5%,46875,0.05,0.66,10.3
+1/26/2024,West,Mechanical Keyboard,Electronics,Summer Sale Campaign,Social Media,Q1,4350,132000,5280,264,5%,39600,0.04,0.82,8.1
+2/2/2024,North,Smart Watch,Electronics,Social Media Boost Campaign,Email,Q1,4250,128000,6400,320,5%,48000,0.05,0.66,10.29
+2/9/2024,South,Wireless Earbuds,Electronics,Retargeting Campaign,Search Engine,Q1,4850,149000,5960,298,5%,44700,0.04,0.81,8.22
+2/16/2024,South,Fitness Tracker,Electronics,Retargeting Campaign,Direct Mail,Q1,6700,70000,2100,105,5%,26250,0.03,3.19,2.92
+2/23/2024,North,Yoga Mat,Health & Fitness,Brand Awareness Campaign,Email,Q1,4350,131000,6550,328,5%,49125,0.05,0.66,10.29
+3/1/2024,South,Yoga Pants,Fashion,Email Promotion,Social Media,Q1,4450,135000,5400,270,5%,40500,0.04,0.82,8.1
+3/8/2024,South,Sports Jacket,Fashion,New Product Launch,Email,Q1,4450,134000,6700,335,5%,50250,0.05,0.66,10.29
+3/15/2024,South,Casual T-Shirt,Fashion,Summer Sale Campaign,Search Engine,Q2,4950,152000,6080,304,5%,45600,0.04,0.81,8.21
+3/22/2024,West,Wireless Earbuds,Electronics,Flash Sale Campaign,Direct Mail,Q2,6800,71000,2130,106,5%,26625,0.03,3.19,2.92
+3/29/2024,West,Wireless Earbuds,Electronics,Retargeting Campaign,Email,Q2,4550,137000,6850,342,5%,51375,0.05,0.66,10.29
+4/5/2024,East,Wireless Earbuds,Electronics,Retargeting Campaign,Social Media,Q2,4550,138000,5520,276,5%,41400,0.04,0.82,8.1
+4/12/2024,East,Yoga Pants,Fashion,Summer Sale Campaign,Email,Q2,4650,140000,7000,350,5%,52500,0.05,0.66,10.29
+4/19/2024,South,Power Bank,Electronics,Social Media Boost Campaign,Search Engine,Q2,5050,155000,6200,310,5%,46500,0.04,0.81,8.21
+4/26/2024,South,Sneakers,Fashion,Summer Sale Campaign,Direct Mail,Q2,6900,72000,2160,108,5%,27000,0.03,3.19,2.91
+5/3/2024,North,Mechanical Keyboard,Electronics,Summer Sale Campaign,Email,Q2,4750,143000,7150,358,5%,53625,0.05,0.66,10.29
+5/10/2024,South,Hoodie,Fashion,Email Promotion,Social Media,Q2,4650,141000,5640,282,5%,42300,0.04,0.82,8.1
+5/17/2024,North,Bluetooth Speaker,Electronics,New Product Launch,Email,Q2,4850,146000,7300,365,5%,54750,0.05,0.66,10.29
+5/24/2024,North,Yoga Pants,Fashion,Social Media Boost Campaign,Search Engine,Q2,5150,158000,6320,316,5%,47400,0.04,0.81,8.2
+5/31/2024,North,Bluetooth Speaker,Electronics,New Product Launch,Direct Mail,Q2,7000,73000,2190,110,5%,27375,0.03,3.2,2.91
+6/7/2024,North,Yoga Pants,Fashion,Retargeting Campaign,Email,Q2,4950,149000,7450,372,5%,55875,0.05,0.66,10.29
+6/14/2024,East,Casual T-Shirt,Fashion,Retargeting Campaign,Social Media,Q2,4750,144000,5760,288,5%,43200,0.04,0.82,8.09
+6/21/2024,North,Wireless Earbuds,Electronics,Summer Sale Campaign,Email,Q2,5050,152000,7600,380,5%,57000,0.05,0.66,10.29
+6/28/2024,North,Power Bank,Electronics,Brand Awareness Campaign,Search Engine,Q3,5250,161000,6440,322,5%,48300,0.04,0.82,8.2
+7/5/2024,North,Multivitamins,Health & Fitness,Summer Sale Campaign,Direct Mail,Q3,7100,74000,2220,111,5%,27750,0.03,3.2,2.91
+7/12/2024,South,Denim Jeans,Fashion,Search Engine Ads Campaign,Email,Q3,5150,155000,7750,388,5%,58125,0.05,0.66,10.29
+7/19/2024,West,Wireless Earbuds,Electronics,Loyalty Program Campaign,Social Media,Q3,4850,147000,5880,294,5%,44100,0.04,0.82,8.09
+7/26/2024,South,Sneakers,Fashion,Summer Sale Campaign,Email,Q3,5250,158000,7900,395,5%,59250,0.05,0.66,10.29
+8/2/2024,West,Sports Jacket,Fashion,Email Promotion,Search Engine,Q3,5350,164000,6560,328,5%,49200,0.04,0.82,8.2
+8/9/2024,South,Laptop Stand,Electronics,Summer Sale Campaign,Direct Mail,Q3,7200,75000,2250,112,5%,28125,0.03,3.2,2.91
+8/16/2024,East,Hoodie,Fashion,Retargeting Campaign,Email,Q3,5350,161000,8050,402,5%,60375,0.05,0.66,10.28
+8/23/2024,South,Power Bank,Electronics,Summer Sale Campaign,Social Media,Q3,4950,150000,6000,300,5%,45000,0.04,0.82,8.09
+8/30/2024,South,Hoodie,Fashion,Retargeting Campaign,Email,Q3,5450,164000,8200,410,5%,61500,0.05,0.66,10.28
+9/6/2024,West,Mechanical Keyboard,Electronics,New Product Launch,Search Engine,Q4,5450,167000,6680,334,5%,50100,0.04,0.82,8.19
+9/13/2024,North,Laptop Stand,Electronics,New Product Launch,Direct Mail,Q4,7300,76000,2280,114,5%,28500,0.03,3.2,2.9
+9/20/2024,South,Mechanical Keyboard,Electronics,Search Engine Ads Campaign,Email,Q4,5550,167000,8350,418,5%,62625,0.05,0.66,10.28
+9/27/2024,South,Mechanical Keyboard,Electronics,Email Promotion,Social Media,Q4,5050,153000,6120,306,5%,45900,0.04,0.82,8.09
+10/4/2024,North,Sports Jacket,Fashion,Social Media Boost Campaign,Email,Q4,5650,170000,8500,425,5%,63750,0.05,0.66,10.28
+10/11/2024,North,Laptop Stand,Electronics,New Product Launch,Search Engine,Q4,5550,170000,6800,340,5%,51000,0.04,0.82,8.19
+10/18/2024,North,Laptop Stand,Electronics,New Product Launch,Direct Mail,Q4,7400,77000,2310,116,5%,28875,0.03,3.2,2.9
+10/25/2024,East,Mechanical Keyboard,Electronics,New Product Launch,Email,Q4,5750,173000,8650,432,5%,64875,0.05,0.66,10.28
+11/1/2024,South,Yoga Pants,Fashion,Flash Sale Campaign,Social Media,Q4,5150,156000,6240,312,5%,46800,0.04,0.82,8.09
+11/8/2024,West,Sneakers,Fashion,Summer Sale Campaign,Email,Q4,5850,176000,8800,440,5%,66000,0.05,0.66,10.28
+11/15/2024,South,Laptop Stand,Electronics,Retargeting Campaign,Search Engine,Q4,5650,173000,6920,346,5%,51900,0.04,0.82,8.19
+11/22/2024,South,Fitness Tracker,Electronics,Summer Sale Campaign,Direct Mail,Q4,7500,78000,2340,117,5%,29250,0.03,3.21,2.9
+11/29/2024,West,Sneakers,Fashion,Seasonal Discount Campaign,Email,Q4,5950,179000,8950,448,5%,67125,0.05,0.66,10.28
+12/6/2024,South,Laptop Stand,Electronics,Search Engine Ads Campaign,Social Media,Q4,5250,159000,6360,318,5%,47700,0.04,0.82,8.09
+12/13/2024,South,Wireless Earbuds,Electronics,New Product Launch,Email,Q4,6050,182000,9100,455,5%,68250,0.05,0.66,10.28
+12/20/2024,South,Multivitamins,Health & Fitness,Summer Sale Campaign,Search Engine,Q4,5750,176000,7040,352,5%,52800,0.04,0.82,8.18
+12/27/2024,North,Fitness Tracker,Electronics,Social Media Boost Campaign,Direct Mail,Q4,7600,79000,2370,118,5%,29625,0.03,3.21,2.9
+1/7/2023,South,Gym Gloves,Health & Fitness,Retargeting Campaign,Search Engine,Q1,3450,108000,4320,216,5%,32400,0.04,0.8,8.39
+1/14/2023,South,Sports Jacket,Fashion,Email Promotion,Email,Q1,1850,66000,3300,165,5%,24750,0.05,0.56,12.38
+1/21/2023,South,Fitness Tracker,Electronics,Loyalty Program Campaign,Social Media,Q1,2950,90000,3600,180,5%,27000,0.04,0.82,8.15
+1/28/2023,South,Mechanical Keyboard,Electronics,Summer Sale Campaign,Direct Mail,Q1,5200,56000,1680,84,5%,21000,0.03,3.1,3.04
+2/4/2023,South,Wireless Earbuds,Electronics,New Product Launch,Email,Q1,2150,72000,3600,180,5%,27000,0.05,0.6,11.56
+2/11/2023,South,Laptop Stand,Electronics,Retargeting Campaign,Search Engine,Q1,3650,114000,4560,228,5%,34200,0.04,0.8,8.37
+2/18/2023,South,Power Bank,Electronics,Email Promotion,Email,Q1,2350,75000,3750,188,5%,28125,0.05,0.63,10.97
+2/25/2023,West,Wireless Earbuds,Electronics,New Product Launch,Social Media,Q1,3050,93000,3720,186,5%,27900,0.04,0.82,8.15
+3/4/2023,South,Multivitamins,Health & Fitness,Summer Sale Campaign,Direct Mail,Q1,5700,61000,1830,92,5%,22875,0.03,3.11,3.01
+3/11/2023,North,Laptop Stand,Electronics,Email Promotion,Email,Q1,2550,78000,3900,195,5%,29250,0.05,0.65,10.47
+3/18/2023,West,Multivitamins,Health & Fitness,Summer Sale Campaign,Search Engine,Q1,3950,122000,4880,244,5%,36600,0.04,0.81,8.27
+3/25/2023,West,Fitness Tracker,Electronics,Summer Sale Campaign,Email,Q2,2750,83000,4150,208,5%,31125,0.05,0.66,10.32
+4/1/2023,East,Running Shoes,Fashion,Summer Sale Campaign,Social Media,Q2,3350,101000,4040,202,5%,30300,0.04,0.83,8.04
+4/8/2023,North,Resistance Bands,Health & Fitness,Seasonal Discount Campaign,Direct Mail,Q2,5900,62000,1860,93,5%,23250,0.03,3.17,2.94
+4/15/2023,South,Fitness Tracker,Electronics,Summer Sale Campaign,Email,Q2,2850,86000,4300,215,5%,32250,0.05,0.66,10.32
+4/22/2023,East,Laptop Stand,Electronics,New Product Launch,Search Engine,Q2,4050,125000,5000,250,5%,37500,0.04,0.81,8.26
+4/29/2023,North,Protein Powder,Health & Fitness,Seasonal Discount Campaign,Email,Q2,2950,89000,4450,222,5%,33375,0.05,0.66,10.31
+5/6/2023,East,Denim Jeans,Fashion,Flash Sale Campaign,Social Media,Q2,3650,110000,4400,220,5%,33000,0.04,0.83,8.04
+5/13/2023,North,Power Bank,Electronics,Seasonal Discount Campaign,Direct Mail,Q2,5500,59000,1770,88,5%,22125,0.03,3.11,3.02
+5/20/2023,South,Smart Watch,Electronics,Seasonal Discount Campaign,Email,Q2,3050,92000,4600,230,5%,34500,0.05,0.66,10.31
+5/27/2023,West,Protein Powder,Health & Fitness,New Product Launch,Search Engine,Q2,4150,128000,5120,256,5%,38400,0.04,0.81,8.25
+6/3/2023,East,Bluetooth Speaker,Electronics,Retargeting Campaign,Email,Q2,3150,95000,4750,238,5%,35625,0.05,0.66,10.31
+6/10/2023,South,Power Bank,Electronics,Loyalty Program Campaign,Social Media,Q2,3750,113000,4520,226,5%,33900,0.04,0.83,8.04
+6/17/2023,South,Denim Jeans,Fashion,Summer Sale Campaign,Direct Mail,Q2,6000,63000,1890,94,5%,23625,0.03,3.17,2.94
+6/24/2023,East,Mechanical Keyboard,Electronics,Brand Awareness Campaign,Email,Q2,3250,98000,4900,245,5%,36750,0.05,0.66,10.31
+7/1/2023,West,Hoodie,Fashion,Summer Sale Campaign,Search Engine,Q3,4250,131000,5240,262,5%,39300,0.04,0.81,8.25
+7/8/2023,South,Sports Jacket,Fashion,Summer Sale Campaign,Email,Q3,3350,101000,5050,252,5%,37875,0.05,0.66,10.31
+7/15/2023,West,Gaming Mouse,Electronics,New Product Launch,Social Media,Q3,3850,117000,4680,234,5%,35100,0.04,0.82,8.12
+7/22/2023,South,Laptop Stand,Electronics,Influencer Marketing Campaign,Direct Mail,Q3,6100,64000,1920,96,5%,24000,0.03,3.18,2.93
+7/29/2023,South,Gym Gloves,Health & Fitness,Seasonal Discount Campaign,Email,Q3,3450,104000,5200,260,5%,39000,0.05,0.66,10.3
+8/5/2023,South,Casual T-Shirt,Fashion,Summer Sale Campaign,Search Engine,Q3,4350,134000,5360,268,5%,40200,0.04,0.81,8.24
+8/12/2023,East,Bluetooth Speaker,Electronics,Summer Sale Campaign,Email,Q3,3550,107000,5350,268,5%,40125,0.05,0.66,10.3
+8/19/2023,North,Yoga Mat,Health & Fitness,Social Media Boost Campaign,Social Media,Q3,3950,120000,4800,240,5%,36000,0.04,0.82,8.11
+8/26/2023,North,Yoga Mat,Health & Fitness,New Product Launch,Direct Mail,Q3,6200,65000,1950,98,5%,24375,0.03,3.18,2.93
+9/2/2023,West,Wireless Earbuds,Electronics,Seasonal Discount Campaign,Email,Q3,3650,110000,5500,275,5%,41250,0.05,0.66,10.3
+9/9/2023,West,Bluetooth Speaker,Electronics,New Product Launch,Search Engine,Q3,4450,137000,5480,274,5%,41100,0.04,0.81,8.24
+9/16/2023,West,Protein Powder,Health & Fitness,Search Engine Ads Campaign,Email,Q3,3750,113000,5650,282,5%,42375,0.05,0.66,10.3
+9/23/2023,West,Gym Gloves,Health & Fitness,New Product Launch,Social Media,Q4,4050,123000,4920,246,5%,36900,0.04,0.82,8.11
+9/30/2023,East,Resistance Bands,Health & Fitness,Retargeting Campaign,Direct Mail,Q4,6300,66000,1980,99,5%,24750,0.03,3.18,2.93
+10/7/2023,South,Running Shoes,Fashion,Email Promotion,Email,Q4,3850,116000,5800,290,5%,43500,0.05,0.66,10.3
+10/14/2023,South,Casual T-Shirt,Fashion,Email Promotion,Search Engine,Q4,4550,140000,5600,280,5%,42000,0.04,0.81,8.23
+10/21/2023,East,Fitness Tracker,Electronics,Email Promotion,Email,Q4,3950,119000,5950,298,5%,44625,0.05,0.66,10.3
+10/28/2023,South,Running Shoes,Fashion,New Product Launch,Social Media,Q4,4150,126000,5040,252,5%,37800,0.04,0.82,8.11
+11/4/2023,East,Laptop Stand,Electronics,Search Engine Ads Campaign,Direct Mail,Q4,6400,67000,2010,100,5%,25125,0.03,3.18,2.93
+11/11/2023,North,Mechanical Keyboard,Electronics,Retargeting Campaign,Email,Q4,4050,122000,6100,305,5%,45750,0.05,0.66,10.3
+11/18/2023,East,Multivitamins,Health & Fitness,Retargeting Campaign,Search Engine,Q4,4650,143000,5720,286,5%,42900,0.04,0.81,8.23
+11/25/2023,North,Protein Powder,Health & Fitness,Search Engine Ads Campaign,Email,Q4,4250,128000,6400,320,5%,48000,0.05,0.66,10.29
+12/2/2023,West,Wireless Earbuds,Electronics,New Product Launch,Social Media,Q4,4250,129000,5160,258,5%,38700,0.04,0.82,8.11
+12/9/2023,West,Casual T-Shirt,Fashion,Social Media Boost Campaign,Direct Mail,Q4,6500,68000,2040,102,5%,25500,0.03,3.19,2.92
+12/16/2023,North,Bluetooth Speaker,Electronics,New Product Launch,Email,Q4,4350,131000,6550,328,5%,49125,0.05,0.66,10.29
+12/23/2023,North,Denim Jeans,Fashion,New Product Launch,Search Engine,Q4,4750,146000,5840,292,5%,43800,0.04,0.81,8.22
+12/30/2023,North,Gaming Mouse,Electronics,Email Promotion,Email,Q4,4450,134000,6700,335,5%,50250,0.05,0.66,10.29
+1/6/2024,South,Sneakers,Fashion,Summer Sale Campaign,Social Media,Q1,4350,132000,5280,264,5%,39600,0.04,0.82,8.1
+1/13/2024,South,Sneakers,Fashion,Email Promotion,Direct Mail,Q1,6600,69000,2070,104,5%,25875,0.03,3.19,2.92
+1/20/2024,North,Resistance Bands,Health & Fitness,Cart Abandonment Campaign,Email,Q1,4550,137000,6850,342,5%,51375,0.05,0.66,10.29
+1/27/2024,West,Running Shoes,Fashion,Social Media Boost Campaign,Search Engine,Q1,4850,149000,5960,298,5%,44700,0.04,0.81,8.22
+2/3/2024,South,Denim Jeans,Fashion,New Product Launch,Email,Q1,4650,140000,7000,350,5%,52500,0.05,0.66,10.29
+2/10/2024,West,Hoodie,Fashion,New Product Launch,Social Media,Q1,4450,135000,5400,270,5%,40500,0.04,0.82,8.1
+2/17/2024,West,Casual T-Shirt,Fashion,Summer Sale Campaign,Direct Mail,Q1,6700,70000,2100,105,5%,26250,0.03,3.19,2.92
+2/24/2024,South,Yoga Pants,Fashion,New Product Launch,Email,Q1,4750,143000,7150,358,5%,53625,0.05,0.66,10.29
+3/2/2024,North,Casual T-Shirt,Fashion,New Product Launch,Search Engine,Q1,4950,152000,6080,304,5%,45600,0.04,0.81,8.21
+3/9/2024,North,Sneakers,Fashion,Search Engine Ads Campaign,Email,Q1,4850,146000,7300,365,5%,54750,0.05,0.66,10.29
+3/16/2024,South,Multivitamins,Health & Fitness,Search Engine Ads Campaign,Social Media,Q2,4550,138000,5520,276,5%,41400,0.04,0.82,8.1
+3/23/2024,North,Laptop Stand,Electronics,Retargeting Campaign,Direct Mail,Q2,6800,71000,2130,106,5%,26625,0.03,3.19,2.92
+3/30/2024,South,Gym Gloves,Health & Fitness,Summer Sale Campaign,Email,Q2,4950,149000,7450,372,5%,55875,0.05,0.66,10.29
+4/6/2024,South,Yoga Pants,Fashion,Email Promotion,Search Engine,Q2,5050,155000,6200,310,5%,46500,0.04,0.81,8.21
+4/13/2024,West,Sports Jacket,Fashion,Summer Sale Campaign,Email,Q2,5050,152000,7600,380,5%,57000,0.05,0.66,10.29
+4/20/2024,East,Denim Jeans,Fashion,Email Promotion,Social Media,Q2,4650,141000,5640,282,5%,42300,0.04,0.82,8.1
+4/27/2024,North,Smart Watch,Electronics,Search Engine Ads Campaign,Direct Mail,Q2,6900,72000,2160,108,5%,27000,0.03,3.19,2.91
+5/4/2024,South,Yoga Pants,Fashion,Summer Sale Campaign,Email,Q2,5150,155000,7750,388,5%,58125,0.05,0.66,10.29
+5/11/2024,East,Multivitamins,Health & Fitness,Retargeting Campaign,Search Engine,Q2,5150,158000,6320,316,5%,47400,0.04,0.81,8.2
+5/18/2024,South,Yoga Pants,Fashion,Email Promotion,Email,Q2,5250,158000,7900,395,5%,59250,0.05,0.66,10.29
+5/25/2024,West,Power Bank,Electronics,New Product Launch,Social Media,Q2,4750,144000,5760,288,5%,43200,0.04,0.82,8.09
+6/1/2024,South,Yoga Mat,Health & Fitness,Loyalty Program Campaign,Direct Mail,Q2,7000,73000,2190,110,5%,27375,0.03,3.2,2.91
+6/8/2024,South,Laptop Stand,Electronics,Social Media Boost Campaign,Email,Q2,5350,161000,8050,402,5%,60375,0.05,0.66,10.28
+6/15/2024,North,Bluetooth Speaker,Electronics,Retargeting Campaign,Search Engine,Q2,5250,161000,6440,322,5%,48300,0.04,0.82,8.2
+6/22/2024,West,Casual T-Shirt,Fashion,Search Engine Ads Campaign,Email,Q2,5450,164000,8200,410,5%,61500,0.05,0.66,10.28
+6/29/2024,South,Mechanical Keyboard,Electronics,Social Media Boost Campaign,Social Media,Q3,4850,147000,5880,294,5%,44100,0.04,0.82,8.09
+7/6/2024,North,Denim Jeans,Fashion,Influencer Marketing Campaign,Direct Mail,Q3,7100,74000,2220,111,5%,27750,0.03,3.2,2.91
+7/13/2024,South,Resistance Bands,Health & Fitness,Brand Awareness Campaign,Email,Q3,5550,167000,8350,418,5%,62625,0.05,0.66,10.28
+7/20/2024,West,Laptop Stand,Electronics,New Product Launch,Search Engine,Q3,5350,164000,6560,328,5%,49200,0.04,0.82,8.2
+7/27/2024,North,Gym Gloves,Health & Fitness,Email Promotion,Email,Q3,5650,170000,8500,425,5%,63750,0.05,0.66,10.28
+8/3/2024,South,Running Shoes,Fashion,Seasonal Discount Campaign,Social Media,Q3,4950,150000,6000,300,5%,45000,0.04,0.82,8.09
+8/10/2024,South,Hoodie,Fashion,Social Media Boost Campaign,Direct Mail,Q3,7200,75000,2250,112,5%,28125,0.03,3.2,2.91
+8/17/2024,North,Protein Powder,Health & Fitness,Flash Sale Campaign,Email,Q3,5750,173000,8650,432,5%,64875,0.05,0.66,10.28
+8/24/2024,North,Bluetooth Speaker,Electronics,Summer Sale Campaign,Search Engine,Q3,5450,167000,6680,334,5%,50100,0.04,0.82,8.19
+8/31/2024,North,Smart Watch,Electronics,Retargeting Campaign,Email,Q3,5850,176000,8800,440,5%,66000,0.05,0.66,10.28
+9/7/2024,North,Wireless Earbuds,Electronics,Email Promotion,Social Media,Q4,5050,153000,6120,306,5%,45900,0.04,0.82,8.09
+9/14/2024,South,Yoga Pants,Fashion,Summer Sale Campaign,Direct Mail,Q4,7300,76000,2280,114,5%,28500,0.03,3.2,2.9
+9/21/2024,West,Gaming Mouse,Electronics,Summer Sale Campaign,Email,Q4,5950,179000,8950,448,5%,67125,0.05,0.66,10.28
+9/28/2024,South,Bluetooth Speaker,Electronics,Search Engine Ads Campaign,Search Engine,Q4,5550,170000,6800,340,5%,51000,0.04,0.82,8.19
+10/5/2024,South,Yoga Mat,Health & Fitness,Email Promotion,Email,Q4,6050,182000,9100,455,5%,68250,0.05,0.66,10.28
+10/12/2024,East,Yoga Mat,Health & Fitness,Social Media Boost Campaign,Social Media,Q4,5150,156000,6240,312,5%,46800,0.04,0.82,8.09
+10/19/2024,South,Multivitamins,Health & Fitness,Loyalty Program Campaign,Direct Mail,Q4,7400,77000,2310,116,5%,28875,0.03,3.2,2.9
+10/26/2024,South,Gaming Mouse,Electronics,Seasonal Discount Campaign,Email,Q4,6150,185000,9250,462,5%,69375,0.05,0.66,10.28
+11/2/2024,South,Sports Jacket,Fashion,Email Promotion,Search Engine,Q4,5650,173000,6920,346,5%,51900,0.04,0.82,8.19
+11/9/2024,East,Denim Jeans,Fashion,Email Promotion,Email,Q4,6250,188000,9400,470,5%,70500,0.05,0.66,10.28
+11/16/2024,East,Protein Powder,Health & Fitness,Retargeting Campaign,Social Media,Q4,5250,159000,6360,318,5%,47700,0.04,0.82,8.09
+11/23/2024,East,Mechanical Keyboard,Electronics,Retargeting Campaign,Direct Mail,Q4,7500,78000,2340,117,5%,29250,0.03,3.21,2.9
+11/30/2024,East,Casual T-Shirt,Fashion,New Product Launch,Email,Q4,6350,191000,9550,478,5%,71625,0.05,0.66,10.28
+12/7/2024,West,Sneakers,Fashion,Summer Sale Campaign,Search Engine,Q4,5750,176000,7040,352,5%,52800,0.04,0.82,8.18
+12/14/2024,North,Hoodie,Fashion,New Product Launch,Email,Q4,6450,194000,9700,485,5%,72750,0.05,0.66,10.28
+12/21/2024,North,Smart Watch,Electronics,Summer Sale Campaign,Social Media,Q4,5350,162000,6480,324,5%,48600,0.04,0.82,8.09
+12/28/2024,South,Gym Gloves,Health & Fitness,Flash Sale Campaign,Direct Mail,Q4,7600,79000,2370,118,5%,29625,0.03,3.21,2.9
+1/9/2023,South,Running Shoes,Fashion,Social Media Boost Campaign,Social Media,Q1,2750,85000,3400,170,5%,25500,0.04,0.81,8.27
+1/16/2023,South,Hoodie,Fashion,Email Promotion,Email,Q1,1950,68000,3400,170,5%,25500,0.05,0.57,12.08
+1/23/2023,South,Fitness Tracker,Electronics,Email Promotion,Search Engine,Q1,3550,111000,4440,222,5%,33300,0.04,0.8,8.38
+1/30/2023,East,Hoodie,Fashion,Search Engine Ads Campaign,Direct Mail,Q1,5300,57000,1710,86,5%,21375,0.03,3.1,3.03
+2/6/2023,North,Bluetooth Speaker,Electronics,Loyalty Program Campaign,Email,Q1,2250,73000,3650,182,5%,27375,0.05,0.62,11.17
+2/13/2023,West,Sports Jacket,Fashion,Email Promotion,Social Media,Q1,3150,97000,3880,194,5%,29100,0.04,0.81,8.24
+2/20/2023,South,Gaming Mouse,Electronics,Retargeting Campaign,Email,Q1,2450,77000,3850,192,5%,28875,0.05,0.64,10.79
+2/27/2023,East,Hoodie,Fashion,Email Promotion,Search Engine,Q1,3850,119000,4760,238,5%,35700,0.04,0.81,8.27
+3/6/2023,South,Laptop Stand,Electronics,Email Promotion,Direct Mail,Q1,5600,60000,1800,90,5%,22500,0.03,3.11,3.02
+3/13/2023,South,Wireless Earbuds,Electronics,Brand Awareness Campaign,Email,Q1,2650,81000,4050,202,5%,30375,0.05,0.65,10.46
+3/20/2023,North,Laptop Stand,Electronics,New Product Launch,Social Media,Q1,3450,104000,4160,208,5%,31200,0.04,0.83,8.04
+3/27/2023,South,Sneakers,Fashion,Retargeting Campaign,Email,Q2,2850,86000,4300,215,5%,32250,0.05,0.66,10.32
+4/3/2023,South,Hoodie,Fashion,Email Promotion,Search Engine,Q2,4150,128000,5120,256,5%,38400,0.04,0.81,8.25
+4/10/2023,East,Resistance Bands,Health & Fitness,Summer Sale Campaign,Direct Mail,Q2,5900,62000,1860,93,5%,23250,0.03,3.17,2.94
+4/17/2023,East,Fitness Tracker,Electronics,New Product Launch,Email,Q2,3050,92000,4600,230,5%,34500,0.05,0.66,10.31
+4/24/2023,North,Hoodie,Fashion,Email Promotion,Social Media,Q2,3750,113000,4520,226,5%,33900,0.04,0.83,8.04
+5/1/2023,South,Sports Jacket,Fashion,Retargeting Campaign,Email,Q2,3250,98000,4900,245,5%,36750,0.05,0.66,10.31
+5/8/2023,South,Sneakers,Fashion,New Product Launch,Search Engine,Q2,4250,131000,5240,262,5%,39300,0.04,0.81,8.25
+5/15/2023,West,Fitness Tracker,Electronics,Summer Sale Campaign,Direct Mail,Q2,6000,63000,1890,94,5%,23625,0.03,3.17,2.94
+5/22/2023,North,Yoga Pants,Fashion,Retargeting Campaign,Email,Q2,3350,101000,5050,252,5%,37875,0.05,0.66,10.31
+5/29/2023,South,Fitness Tracker,Electronics,Loyalty Program Campaign,Social Media,Q2,3850,117000,4680,234,5%,35100,0.04,0.82,8.12
+6/5/2023,West,Smart Watch,Electronics,Retargeting Campaign,Email,Q2,3450,104000,5200,260,5%,39000,0.05,0.66,10.3
+6/12/2023,North,Running Shoes,Fashion,Brand Awareness Campaign,Search Engine,Q2,4350,134000,5360,268,5%,40200,0.04,0.81,8.24
+6/19/2023,North,Laptop Stand,Electronics,Brand Awareness Campaign,Direct Mail,Q2,6100,64000,1920,96,5%,24000,0.03,3.18,2.93
+6/26/2023,South,Protein Powder,Health & Fitness,Social Media Boost Campaign,Email,Q2,3550,107000,5350,268,5%,40125,0.05,0.66,10.3
+7/3/2023,South,Gaming Mouse,Electronics,Brand Awareness Campaign,Social Media,Q3,3950,120000,4800,240,5%,36000,0.04,0.82,8.11
+7/10/2023,West,Laptop Stand,Electronics,Loyalty Program Campaign,Email,Q3,3650,110000,5500,275,5%,41250,0.05,0.66,10.3
+7/17/2023,North,Protein Powder,Health & Fitness,Social Media Boost Campaign,Search Engine,Q3,4450,137000,5480,274,5%,41100,0.04,0.81,8.24
+7/24/2023,North,Smart Watch,Electronics,Email Promotion,Direct Mail,Q3,6200,65000,1950,98,5%,24375,0.03,3.18,2.93
+7/31/2023,South,Yoga Mat,Health & Fitness,Summer Sale Campaign,Email,Q3,3750,113000,5650,282,5%,42375,0.05,0.66,10.3
+8/7/2023,North,Resistance Bands,Health & Fitness,Email Promotion,Social Media,Q3,4050,123000,4920,246,5%,36900,0.04,0.82,8.11
+8/14/2023,North,Fitness Tracker,Electronics,Summer Sale Campaign,Email,Q3,3850,116000,5800,290,5%,43500,0.05,0.66,10.3
+8/21/2023,West,Sports Jacket,Fashion,Email Promotion,Search Engine,Q3,4550,140000,5600,280,5%,42000,0.04,0.81,8.23
+8/28/2023,South,Smart Watch,Electronics,New Product Launch,Direct Mail,Q3,6300,66000,1980,99,5%,24750,0.03,3.18,2.93
+9/4/2023,South,Wireless Earbuds,Electronics,Brand Awareness Campaign,Email,Q3,3950,119000,5950,298,5%,44625,0.05,0.66,10.3
+9/11/2023,South,Yoga Pants,Fashion,Brand Awareness Campaign,Social Media,Q3,4150,126000,5040,252,5%,37800,0.04,0.82,8.11
+9/18/2023,North,Hoodie,Fashion,Retargeting Campaign,Email,Q3,4050,122000,6100,305,5%,45750,0.05,0.66,10.3
+9/25/2023,North,Wireless Earbuds,Electronics,Summer Sale Campaign,Search Engine,Q4,4650,143000,5720,286,5%,42900,0.04,0.81,8.23
+10/2/2023,South,Mechanical Keyboard,Electronics,Email Promotion,Direct Mail,Q4,6400,67000,2010,100,5%,25125,0.03,3.18,2.93
+10/9/2023,West,Laptop Stand,Electronics,New Product Launch,Email,Q4,4150,125000,6250,312,5%,46875,0.05,0.66,10.3
+10/16/2023,South,Fitness Tracker,Electronics,Search Engine Ads Campaign,Social Media,Q4,4250,129000,5160,258,5%,38700,0.04,0.82,8.11
+10/23/2023,South,Wireless Earbuds,Electronics,Brand Awareness Campaign,Email,Q4,4250,128000,6400,320,5%,48000,0.05,0.66,10.29
+10/30/2023,West,Resistance Bands,Health & Fitness,Search Engine Ads Campaign,Search Engine,Q4,4750,146000,5840,292,5%,43800,0.04,0.81,8.22
+11/6/2023,South,Laptop Stand,Electronics,Search Engine Ads Campaign,Direct Mail,Q4,6500,68000,2040,102,5%,25500,0.03,3.19,2.92
+11/13/2023,East,Sports Jacket,Fashion,Email Promotion,Email,Q4,4350,131000,6550,328,5%,49125,0.05,0.66,10.29
+11/20/2023,North,Bluetooth Speaker,Electronics,Retargeting Campaign,Social Media,Q4,4350,132000,5280,264,5%,39600,0.04,0.82,8.1
+11/27/2023,South,Yoga Mat,Health & Fitness,Social Media Boost Campaign,Email,Q4,4450,134000,6700,335,5%,50250,0.05,0.66,10.29
+12/4/2023,South,Running Shoes,Fashion,Summer Sale Campaign,Search Engine,Q4,4850,149000,5960,298,5%,44700,0.04,0.81,8.22
+12/11/2023,South,Gym Gloves,Health & Fitness,New Product Launch,Direct Mail,Q4,6600,69000,2070,104,5%,25875,0.03,3.19,2.92
+12/18/2023,West,Power Bank,Electronics,Retargeting Campaign,Email,Q4,4550,137000,6850,342,5%,51375,0.05,0.66,10.29
+12/25/2023,East,Gaming Mouse,Electronics,Retargeting Campaign,Social Media,Q4,4450,135000,5400,270,5%,40500,0.04,0.82,8.1
+1/1/2024,West,Protein Powder,Health & Fitness,Cart Abandonment Campaign,Email,Q1,4650,140000,7000,350,5%,52500,0.05,0.66,10.29
+1/8/2024,North,Resistance Bands,Health & Fitness,Retargeting Campaign,Search Engine,Q1,4950,152000,6080,304,5%,45600,0.04,0.81,8.21
+1/15/2024,South,Sports Jacket,Fashion,Summer Sale Campaign,Direct Mail,Q1,6700,70000,2100,105,5%,26250,0.03,3.19,2.92
+1/22/2024,North,Denim Jeans,Fashion,Summer Sale Campaign,Email,Q1,4750,143000,7150,358,5%,53625,0.05,0.66,10.29
+1/29/2024,South,Running Shoes,Fashion,Flash Sale Campaign,Social Media,Q1,4550,138000,5520,276,5%,41400,0.04,0.82,8.1
+2/5/2024,West,Casual T-Shirt,Fashion,Social Media Boost Campaign,Email,Q1,4850,146000,7300,365,5%,54750,0.05,0.66,10.29
+2/12/2024,North,Running Shoes,Fashion,New Product Launch,Search Engine,Q1,5050,155000,6200,310,5%,46500,0.04,0.81,8.21
+2/19/2024,East,Wireless Earbuds,Electronics,Summer Sale Campaign,Direct Mail,Q1,6800,71000,2130,106,5%,26625,0.03,3.19,2.92
+2/26/2024,North,Gym Gloves,Health & Fitness,Retargeting Campaign,Email,Q1,4950,149000,7450,372,5%,55875,0.05,0.66,10.29
+3/4/2024,East,Smart Watch,Electronics,Retargeting Campaign,Social Media,Q1,4650,141000,5640,282,5%,42300,0.04,0.82,8.1
+3/11/2024,North,Mechanical Keyboard,Electronics,Summer Sale Campaign,Email,Q1,5050,152000,7600,380,5%,57000,0.05,0.66,10.29
+3/18/2024,South,Multivitamins,Health & Fitness,Email Promotion,Search Engine,Q2,5150,158000,6320,316,5%,47400,0.04,0.81,8.2
+3/25/2024,North,Wireless Earbuds,Electronics,Summer Sale Campaign,Direct Mail,Q2,6900,72000,2160,108,5%,27000,0.03,3.19,2.91
+4/1/2024,West,Smart Watch,Electronics,Summer Sale Campaign,Email,Q2,5150,155000,7750,388,5%,58125,0.05,0.66,10.29
+4/8/2024,West,Running Shoes,Fashion,Cart Abandonment Campaign,Social Media,Q2,4750,144000,5760,288,5%,43200,0.04,0.82,8.09
+4/15/2024,West,Multivitamins,Health & Fitness,Summer Sale Campaign,Email,Q2,5250,158000,7900,395,5%,59250,0.05,0.66,10.29
+4/22/2024,South,Power Bank,Electronics,Email Promotion,Search Engine,Q2,5250,161000,6440,322,5%,48300,0.04,0.82,8.2
+4/29/2024,West,Laptop Stand,Electronics,Search Engine Ads Campaign,Direct Mail,Q2,7000,73000,2190,110,5%,27375,0.03,3.2,2.91
+5/6/2024,South,Yoga Mat,Health & Fitness,Loyalty Program Campaign,Email,Q2,5350,161000,8050,402,5%,60375,0.05,0.66,10.28
+5/13/2024,South,Wireless Earbuds,Electronics,Email Promotion,Social Media,Q2,4850,147000,5880,294,5%,44100,0.04,0.82,8.09
+5/20/2024,West,Gym Gloves,Health & Fitness,Summer Sale Campaign,Email,Q2,5450,164000,8200,410,5%,61500,0.05,0.66,10.28
+5/27/2024,North,Fitness Tracker,Electronics,Search Engine Ads Campaign,Search Engine,Q2,5350,164000,6560,328,5%,49200,0.04,0.82,8.2
+6/3/2024,West,Fitness Tracker,Electronics,New Product Launch,Direct Mail,Q2,7100,74000,2220,111,5%,27750,0.03,3.2,2.91
+6/10/2024,East,Gym Gloves,Health & Fitness,Social Media Boost Campaign,Email,Q2,5550,167000,8350,418,5%,62625,0.05,0.66,10.28
+6/17/2024,South,Wireless Earbuds,Electronics,Seasonal Discount Campaign,Social Media,Q2,4950,150000,6000,300,5%,45000,0.04,0.82,8.09
+6/24/2024,North,Running Shoes,Fashion,Loyalty Program Campaign,Email,Q2,5650,170000,8500,425,5%,63750,0.05,0.66,10.28
+7/1/2024,South,Sports Jacket,Fashion,Cart Abandonment Campaign,Search Engine,Q3,5450,167000,6680,334,5%,50100,0.04,0.82,8.19
+7/8/2024,West,Power Bank,Electronics,Summer Sale Campaign,Direct Mail,Q3,7200,75000,2250,112,5%,28125,0.03,3.2,2.91
+7/15/2024,East,Sports Jacket,Fashion,Retargeting Campaign,Email,Q3,5750,173000,8650,432,5%,64875,0.05,0.66,10.28
+7/22/2024,North,Sneakers,Fashion,Summer Sale Campaign,Social Media,Q3,5050,153000,6120,306,5%,45900,0.04,0.82,8.09
+7/29/2024,South,Casual T-Shirt,Fashion,New Product Launch,Email,Q3,5850,176000,8800,440,5%,66000,0.05,0.66,10.28
+8/5/2024,West,Gaming Mouse,Electronics,Summer Sale Campaign,Search Engine,Q3,5550,170000,6800,340,5%,51000,0.04,0.82,8.19
+8/12/2024,West,Fitness Tracker,Electronics,Summer Sale Campaign,Direct Mail,Q3,7300,76000,2280,114,5%,28500,0.03,3.2,2.9
+8/19/2024,West,Gym Gloves,Health & Fitness,Brand Awareness Campaign,Email,Q3,5950,179000,8950,448,5%,67125,0.05,0.66,10.28
+8/26/2024,West,Fitness Tracker,Electronics,Search Engine Ads Campaign,Social Media,Q3,5150,156000,6240,312,5%,46800,0.04,0.82,8.09
+9/2/2024,North,Yoga Pants,Fashion,Loyalty Program Campaign,Email,Q3,6050,182000,9100,455,5%,68250,0.05,0.66,10.28
+9/9/2024,South,Sports Jacket,Fashion,Summer Sale Campaign,Search Engine,Q4,5650,173000,6920,346,5%,51900,0.04,0.82,8.19
+9/16/2024,South,Protein Powder,Health & Fitness,Brand Awareness Campaign,Direct Mail,Q4,7400,77000,2310,116,5%,28875,0.03,3.2,2.9
+9/23/2024,West,Gaming Mouse,Electronics,Search Engine Ads Campaign,Email,Q4,6150,185000,9250,462,5%,69375,0.05,0.66,10.28
+9/30/2024,South,Fitness Tracker,Electronics,New Product Launch,Social Media,Q4,5250,159000,6360,318,5%,47700,0.04,0.82,8.09
+10/7/2024,North,Gaming Mouse,Electronics,Retargeting Campaign,Email,Q4,6250,188000,9400,470,5%,70500,0.05,0.66,10.28
+10/14/2024,East,Gaming Mouse,Electronics,Social Media Boost Campaign,Search Engine,Q4,5750,176000,7040,352,5%,52800,0.04,0.82,8.18
+10/21/2024,East,Protein Powder,Health & Fitness,Summer Sale Campaign,Direct Mail,Q4,7500,78000,2340,117,5%,29250,0.03,3.21,2.9
+10/28/2024,North,Fitness Tracker,Electronics,Summer Sale Campaign,Email,Q4,6350,191000,9550,478,5%,71625,0.05,0.66,10.28
+11/4/2024,West,Gaming Mouse,Electronics,Loyalty Program Campaign,Social Media,Q4,5350,162000,6480,324,5%,48600,0.04,0.82,8.09
+11/11/2024,South,Yoga Pants,Fashion,New Product Launch,Email,Q4,6450,194000,9700,485,5%,72750,0.05,0.66,10.28
+11/18/2024,West,Hoodie,Fashion,New Product Launch,Search Engine,Q4,5850,179000,7160,358,5%,53700,0.04,0.82,8.18
+11/25/2024,North,Sports Jacket,Fashion,Summer Sale Campaign,Direct Mail,Q4,7600,79000,2370,118,5%,29625,0.03,3.21,2.9
+12/2/2024,East,Smart Watch,Electronics,New Product Launch,Email,Q4,6550,197000,9850,492,5%,73875,0.05,0.66,10.28
+12/9/2024,South,Yoga Pants,Fashion,New Product Launch,Social Media,Q4,5450,165000,6600,330,5%,49500,0.04,0.82,8.09
+12/16/2024,South,Power Bank,Electronics,Retargeting Campaign,Email,Q4,6650,200000,10000,500,5%,75000,0.05,0.67,10.28
+12/23/2024,North,Sneakers,Fashion,New Product Launch,Search Engine,Q4,5950,182000,7280,364,5%,54600,0.04,0.82,8.18
+12/30/2024,North,Gaming Mouse,Electronics,Summer Sale Campaign,Direct Mail,Q4,7700,80000,2400,120,5%,30000,0.03,3.21,2.9
+9/6/2023,West,Yoga Mat,Health & Fitness,Search Engine Ads Campaign,Email,Q3,2350,75000,3750,188,5%,28125,0.05,0.63,10.97
+9/19/2023,North,Sneakers,Fashion,New Product Launch,Search Engine,Q3,3750,117000,4680,234,5%,35100,0.04,0.8,8.36
+3/23/2023,South,Mechanical Keyboard,Electronics,Summer Sale Campaign,Search Engine,Q2,3750,118000,4720,236,5%,35400,0.04,0.79,8.44
+8/20/2023,South,Power Bank,Electronics,Summer Sale Campaign,Social Media,Q3,3283.84,5414,643,4,1%,19911.6,0.1188,5.11,5.0635
+5/1/2023,North,Bluetooth Speaker,Electronics,Cart Abandonment Campaign,Email,Q2,3250,98000,4900,245,5%,36750,0.05,0.66,10.31
+7/13/2024,South,Casual T-Shirt,Fashion,Email Promotion,Email,Q3,5550,167000,8350,418,5%,62625,0.05,0.66,10.28
+12/3/2023,East,Sports Jacket,Fashion,Summer Sale Campaign,Email,Q4,2250,73000,3650,182,5%,27375,0.05,0.62,11.17
+11/25/2024,South,Hoodie,Fashion,Seasonal Discount Campaign,Direct Mail,Q4,7600,79000,2370,118,5%,29625,0.03,3.21,2.9
+5/17/2024,North,Hoodie,Fashion,Email Promotion,Email,Q2,4850,146000,7300,365,5%,54750,0.05,0.66,10.29
+10/5/2023,South,Gaming Mouse,Electronics,Retargeting Campaign,Social Media,Q4,3650,111000,4440,222,5%,33300,0.04,0.82,8.12
+11/19/2023,East,Mechanical Keyboard,Electronics,Search Engine Ads Campaign,Social Media,Q3,688.4,4477,205,38,19%,17378.22,0.0458,3.36,24.2444
+1/29/2024,North,Resistance Bands,Health & Fitness,Retargeting Campaign,Search Engine,Q1,3100,98000,3920,196,5%,29400,0.04,0.79,8.48
+5/24/2024,East,Wireless Earbuds,Electronics,Brand Awareness Campaign,Search Engine,Q2,5150,158000,6320,316,5%,47400,0.04,0.81,8.2
+8/26/2023,North,Yoga Pants,Fashion,Email Promotion,Direct Mail,Q3,6200,65000,1950,98,5%,24375,0.03,3.18,2.93
+12/13/2024,North,Hoodie,Fashion,New Product Launch,Email,Q4,6050,182000,9100,455,5%,68250,0.05,0.66,10.28
+7/31/2024,South,Yoga Pants,Fashion,Social Media Boost Campaign,Email,Q3,2150,73000,3650,182,5%,27375,0.05,0.59,11.73
+11/1/2023,South,Sports Jacket,Fashion,Retargeting Campaign,Direct Mail,Q4,5900,62000,1860,93,5%,23250,0.03,3.17,2.94
+6/26/2024,South,Gaming Mouse,Electronics,Summer Sale Campaign,Email,Q2,2550,79000,3950,198,5%,29625,0.05,0.65,10.62
+10/29/2023,East,Power Bank,Electronics,Summer Sale Campaign,Direct Mail,Q1,1957.63,6396,191,17,9%,4503.55,0.0299,10.25,1.3005
+2/22/2024,West,Hoodie,Fashion,Email Promotion,Email,Q1,2250,74000,3700,185,5%,27750,0.05,0.61,11.33
+12/10/2024,South,Yoga Pants,Fashion,Summer Sale Campaign,Email,Q4,2400,77000,3850,192,5%,28875,0.05,0.62,11.03
+3/23/2024,West,Power Bank,Electronics,Retargeting Campaign,Direct Mail,Q2,6800,71000,2130,106,5%,26625,0.03,3.19,2.92
+5/10/2024,North,Denim Jeans,Fashion,Social Media Boost Campaign,Social Media,Q2,4650,141000,5640,282,5%,42300,0.04,0.82,8.1
+1/21/2023,North,Wireless Earbuds,Electronics,Social Media Boost Campaign,Social Media,Q1,2950,90000,3600,180,5%,27000,0.04,0.82,8.15
+2/11/2024,South,Wireless Earbuds,Electronics,Social Media Boost Campaign,Direct Mail,Q2,3091.34,4665,150,37,25%,18223.16,0.0322,20.61,4.8949
+2/28/2023,South,Fitness Tracker,Electronics,Loyalty Program Campaign,Direct Mail,Q1,5600,59000,1770,88,5%,22125,0.03,3.16,2.95
+6/25/2024,East,Power Bank,Electronics,Search Engine Ads Campaign,Search Engine,Q3,3800,118000,4720,236,5%,35400,0.04,0.81,8.32
+8/19/2024,South,Running Shoes,Fashion,Brand Awareness Campaign,Email,Q3,5950,179000,8950,448,5%,67125,0.05,0.66,10.28
+12/2/2024,West,Yoga Pants,Fashion,Summer Sale Campaign,Email,Q4,6550,197000,9850,492,5%,73875,0.05,0.66,10.28
+12/10/2023,South,Casual T-Shirt,Fashion,New Product Launch,Direct Mail,Q4,5500,57000,1710,86,5%,21375,0.03,3.22,2.89
+12/15/2023,West,Bluetooth Speaker,Electronics,Retargeting Campaign,Email,Q4,3950,119000,5950,298,5%,44625,0.05,0.66,10.3
+2/11/2024,West,Sports Jacket,Fashion,Loyalty Program Campaign,Direct Mail,Q2,3091.34,4665,150,37,25%,18223.16,0.0322,20.61,4.8949
+6/9/2024,South,Laptop Stand,Electronics,Social Media Boost Campaign,Email,Q1,1532.29,8742,635,20,3%,5409.03,0.0726,2.41,2.53
+2/3/2023,North,Casual T-Shirt,Fashion,New Product Launch,Email,Q1,2050,70000,3500,175,5%,26250,0.05,0.59,11.8
+7/19/2023,South,Multivitamins,Health & Fitness,Retargeting Campaign,Direct Mail,Q3,5500,59000,1770,88,5%,22125,0.03,3.11,3.02
+8/26/2024,South,Mechanical Keyboard,Electronics,Summer Sale Campaign,Social Media,Q3,5150,156000,6240,312,5%,46800,0.04,0.82,8.09
+6/2/2024,South,Multivitamins,Health & Fitness,Social Media Boost Campaign,Email,Q2,1203.33,5425,764,36,5%,2873.42,0.1408,1.58,1.3879
+7/28/2024,East,Resistance Bands,Health & Fitness,Email Promotion,Email,Q3,1700,64000,3200,160,5%,24000,0.05,0.53,13.12
+3/6/2023,South,Running Shoes,Fashion,Summer Sale Campaign,Direct Mail,Q1,5600,60000,1800,90,5%,22500,0.03,3.11,3.02
+8/22/2024,North,Wireless Earbuds,Electronics,Summer Sale Campaign,Direct Mail,Q3,5800,62000,1860,93,5%,23250,0.03,3.12,3.01
+5/24/2023,North,Laptop Stand,Electronics,Influencer Marketing Campaign,Email,Q2,2250,74000,3700,185,5%,27750,0.05,0.61,11.33
+9/2/2024,South,Fitness Tracker,Electronics,Brand Awareness Campaign,Email,Q3,2400,76000,3800,190,5%,28500,0.05,0.63,10.88
+7/31/2023,North,Multivitamins,Health & Fitness,Search Engine Ads Campaign,Direct Mail,Q3,5700,59000,1770,88,5%,22125,0.03,3.22,2.88
+8/12/2023,North,Fitness Tracker,Electronics,New Product Launch,Email,Q3,3550,107000,5350,268,5%,40125,0.05,0.66,10.3
+10/30/2023,South,Casual T-Shirt,Fashion,Email Promotion,Email,Q4,2150,71000,3550,178,5%,26625,0.05,0.61,11.38
+4/17/2023,North,Sports Jacket,Fashion,Summer Sale Campaign,Search Engine,Q2,3700,115000,4600,230,5%,34500,0.04,0.8,8.32
+3/5/2023,North,Yoga Mat,Health & Fitness,Loyalty Program Campaign,Social Media,Q1,2950,88000,3520,176,5%,26400,0.04,0.84,7.95
+11/30/2023,North,Yoga Pants,Fashion,Email Promotion,Email,Q4,2850,86000,4300,215,5%,32250,0.05,0.66,10.32
+1/17/2024,South,Sneakers,Fashion,Retargeting Campaign,Social Media,Q1,2350,75000,3750,188,5%,28125,0.05,0.63,10.97
+8/15/2023,South,Gym Gloves,Health & Fitness,Retargeting Campaign,Search Engine,Q3,2850,91000,3640,182,5%,27300,0.04,0.78,8.58
+5/20/2024,North,Bluetooth Speaker,Electronics,Retargeting Campaign,Social Media,Q2,3000,91000,3640,182,5%,27300,0.04,0.82,8.1
+9/2/2024,East,Gym Gloves,Health & Fitness,Summer Sale Campaign,Email,Q3,6050,182000,9100,455,5%,68250,0.05,0.66,10.28
+2/8/2024,South,Wireless Earbuds,Electronics,Email Promotion,Email,Q1,2050,71000,3550,178,5%,26625,0.05,0.58,11.99
+5/8/2023,West,Bluetooth Speaker,Electronics,Email Promotion,Direct Mail,Q2,5600,60000,1800,90,5%,22500,0.03,3.11,3.02
+12/21/2023,North,Bluetooth Speaker,Electronics,Brand Awareness Campaign,Email,Q4,2750,84000,4200,210,5%,31500,0.05,0.65,10.45
+11/7/2023,East,Smart Watch,Electronics,Summer Sale Campaign,Email,Q4,2450,77000,3850,192,5%,28875,0.05,0.64,10.79
+2/16/2024,North,Resistance Bands,Health & Fitness,Social Media Boost Campaign,Direct Mail,Q1,6700,70000,2100,105,5%,26250,0.03,3.19,2.92
+2/26/2024,North,Gym Gloves,Health & Fitness,Email Promotion,Direct Mail,Q1,5500,59000,1770,88,5%,22125,0.03,3.11,3.02
+1/24/2024,South,Smart Watch,Electronics,Influencer Marketing Campaign,Direct Mail,Q1,4900,53000,1590,80,5%,19875,0.03,3.08,3.06
+1/10/2023,East,Sneakers,Fashion,Retargeting Campaign,Email,Q1,1650,62000,3100,155,5%,23250,0.05,0.53,13.09
+1/17/2023,South,Bluetooth Speaker,Electronics,Retargeting Campaign,Search Engine,Q1,3250,102000,4080,204,5%,30600,0.04,0.8,8.42
+1/24/2023,East,Hoodie,Fashion,Search Engine Ads Campaign,Social Media,Q1,2650,82000,3280,164,5%,24600,0.04,0.81,8.28
+1/31/2023,East,Running Shoes,Fashion,Email Promotion,Direct Mail,Q1,5400,58000,1740,87,5%,21750,0.03,3.1,3.03
+2/7/2023,South,Power Bank,Electronics,Email Promotion,Social Media,Q1,3050,94000,3760,188,5%,28200,0.04,0.81,8.25
+2/14/2023,East,Bluetooth Speaker,Electronics,Summer Sale Campaign,Email,Q1,2350,75000,3750,188,5%,28125,0.05,0.63,10.97
+2/21/2023,South,Wireless Earbuds,Electronics,Brand Awareness Campaign,Search Engine,Q1,3750,117000,4680,234,5%,35100,0.04,0.8,8.36
+2/28/2023,South,Gaming Mouse,Electronics,Retargeting Campaign,Email,Q1,2550,79000,3950,198,5%,29625,0.05,0.65,10.62
+3/7/2023,West,Resistance Bands,Health & Fitness,Search Engine Ads Campaign,Direct Mail,Q1,5800,61000,1830,92,5%,22875,0.03,3.17,2.94
+3/14/2023,West,Mechanical Keyboard,Electronics,Brand Awareness Campaign,Social Media,Q1,3350,102000,4080,204,5%,30600,0.04,0.82,8.13
+3/21/2023,South,Running Shoes,Fashion,Summer Sale Campaign,Email,Q1,2750,84000,4200,210,5%,31500,0.05,0.65,10.45
+3/28/2023,South,Gym Gloves,Health & Fitness,Loyalty Program Campaign,Search Engine,Q2,4050,125000,5000,250,5%,37500,0.04,0.81,8.26
+4/4/2023,South,Laptop Stand,Electronics,Social Media Boost Campaign,Email,Q2,2950,89000,4450,222,5%,33375,0.05,0.66,10.31
+4/11/2023,South,Hoodie,Fashion,Summer Sale Campaign,Direct Mail,Q2,6000,63000,1890,94,5%,23625,0.03,3.17,2.94
+4/18/2023,West,Gym Gloves,Health & Fitness,Email Promotion,Social Media,Q2,3650,110000,4400,220,5%,33000,0.04,0.83,8.04
+4/25/2023,South,Mechanical Keyboard,Electronics,Social Media Boost Campaign,Email,Q2,3150,95000,4750,238,5%,35625,0.05,0.66,10.31
+5/2/2023,West,Gaming Mouse,Electronics,New Product Launch,Search Engine,Q2,4250,131000,5240,262,5%,39300,0.04,0.81,8.25
+5/9/2023,East,Laptop Stand,Electronics,Email Promotion,Email,Q2,3350,101000,5050,252,5%,37875,0.05,0.66,10.31
+5/16/2023,North,Wireless Earbuds,Electronics,New Product Launch,Direct Mail,Q2,6100,64000,1920,96,5%,24000,0.03,3.18,2.93
+5/23/2023,South,Smart Watch,Electronics,Loyalty Program Campaign,Social Media,Q2,3850,117000,4680,234,5%,35100,0.04,0.82,8.12
+5/30/2023,North,Smart Watch,Electronics,Email Promotion,Email,Q2,3450,104000,5200,260,5%,39000,0.05,0.66,10.3
+6/6/2023,West,Denim Jeans,Fashion,Brand Awareness Campaign,Search Engine,Q2,4350,134000,5360,268,5%,40200,0.04,0.81,8.24
+6/13/2023,West,Power Bank,Electronics,Brand Awareness Campaign,Email,Q2,3550,107000,5350,268,5%,40125,0.05,0.66,10.3
+6/20/2023,North,Yoga Pants,Fashion,Email Promotion,Direct Mail,Q2,6200,65000,1950,98,5%,24375,0.03,3.18,2.93
+6/27/2023,North,Gym Gloves,Health & Fitness,Flash Sale Campaign,Social Media,Q3,3950,120000,4800,240,5%,36000,0.04,0.82,8.11
+7/4/2023,North,Fitness Tracker,Electronics,Retargeting Campaign,Email,Q3,3650,110000,5500,275,5%,41250,0.05,0.66,10.3
+7/11/2023,North,Fitness Tracker,Electronics,Brand Awareness Campaign,Search Engine,Q3,4450,137000,5480,274,5%,41100,0.04,0.81,8.24
+7/18/2023,East,Fitness Tracker,Electronics,Summer Sale Campaign,Email,Q3,3750,113000,5650,282,5%,42375,0.05,0.66,10.3
+7/25/2023,North,Hoodie,Fashion,Brand Awareness Campaign,Direct Mail,Q3,6300,66000,1980,99,5%,24750,0.03,3.18,2.93
+8/1/2023,West,Yoga Mat,Health & Fitness,Flash Sale Campaign,Social Media,Q3,4050,123000,4920,246,5%,36900,0.04,0.82,8.11
+8/8/2023,West,Power Bank,Electronics,Retargeting Campaign,Email,Q3,3850,116000,5800,290,5%,43500,0.05,0.66,10.3
+8/15/2023,South,Hoodie,Fashion,Loyalty Program Campaign,Search Engine,Q3,4550,140000,5600,280,5%,42000,0.04,0.81,8.23
+8/22/2023,South,Bluetooth Speaker,Electronics,Search Engine Ads Campaign,Email,Q3,3950,119000,5950,298,5%,44625,0.05,0.66,10.3
+8/29/2023,South,Bluetooth Speaker,Electronics,Search Engine Ads Campaign,Direct Mail,Q3,6400,67000,2010,100,5%,25125,0.03,3.18,2.93
+9/5/2023,West,Smart Watch,Electronics,Retargeting Campaign,Social Media,Q3,4150,126000,5040,252,5%,37800,0.04,0.82,8.11
+9/12/2023,West,Wireless Earbuds,Electronics,Email Promotion,Email,Q3,4050,122000,6100,305,5%,45750,0.05,0.66,10.3
+9/19/2023,North,Smart Watch,Electronics,Retargeting Campaign,Search Engine,Q4,4650,143000,5720,286,5%,42900,0.04,0.81,8.23
+9/26/2023,North,Gaming Mouse,Electronics,Email Promotion,Email,Q4,4150,125000,6250,312,5%,46875,0.05,0.66,10.3
+10/3/2023,West,Sports Jacket,Fashion,Summer Sale Campaign,Direct Mail,Q4,6500,68000,2040,102,5%,25500,0.03,3.19,2.92
+10/10/2023,West,Yoga Mat,Health & Fitness,Influencer Marketing Campaign,Social Media,Q4,4250,129000,5160,258,5%,38700,0.04,0.82,8.11
+10/17/2023,West,Resistance Bands,Health & Fitness,Email Promotion,Email,Q4,4250,128000,6400,320,5%,48000,0.05,0.66,10.29
+10/24/2023,West,Mechanical Keyboard,Electronics,Social Media Boost Campaign,Search Engine,Q4,4750,146000,5840,292,5%,43800,0.04,0.81,8.22
+10/31/2023,South,Resistance Bands,Health & Fitness,Search Engine Ads Campaign,Email,Q4,4350,131000,6550,328,5%,49125,0.05,0.66,10.29
+11/7/2023,West,Bluetooth Speaker,Electronics,Retargeting Campaign,Direct Mail,Q4,6600,69000,2070,104,5%,25875,0.03,3.19,2.92
+11/14/2023,East,Gaming Mouse,Electronics,New Product Launch,Social Media,Q4,4350,132000,5280,264,5%,39600,0.04,0.82,8.1
+11/21/2023,North,Laptop Stand,Electronics,Retargeting Campaign,Email,Q4,4450,134000,6700,335,5%,50250,0.05,0.66,10.29
+11/28/2023,West,Smart Watch,Electronics,Influencer Marketing Campaign,Search Engine,Q4,4850,149000,5960,298,5%,44700,0.04,0.81,8.22
+12/5/2023,South,Multivitamins,Health & Fitness,New Product Launch,Email,Q4,4550,137000,6850,342,5%,51375,0.05,0.66,10.29
+12/12/2023,East,Sports Jacket,Fashion,Cart Abandonment Campaign,Direct Mail,Q4,6700,70000,2100,105,5%,26250,0.03,3.19,2.92
+12/19/2023,North,Yoga Mat,Health & Fitness,Flash Sale Campaign,Social Media,Q4,4450,135000,5400,270,5%,40500,0.04,0.82,8.1
+12/26/2023,South,Mechanical Keyboard,Electronics,Email Promotion,Email,Q4,4650,140000,7000,350,5%,52500,0.05,0.66,10.29
+1/2/2024,North,Laptop Stand,Electronics,Flash Sale Campaign,Search Engine,Q1,4950,152000,6080,304,5%,45600,0.04,0.81,8.21
+1/9/2024,East,Protein Powder,Health & Fitness,New Product Launch,Email,Q1,4750,143000,7150,358,5%,53625,0.05,0.66,10.29
+1/16/2024,West,Sports Jacket,Fashion,Summer Sale Campaign,Direct Mail,Q1,6800,71000,2130,106,5%,26625,0.03,3.19,2.92
+1/23/2024,North,Smart Watch,Electronics,Retargeting Campaign,Social Media,Q1,4550,138000,5520,276,5%,41400,0.04,0.82,8.1
+1/30/2024,West,Denim Jeans,Fashion,Social Media Boost Campaign,Email,Q1,4850,146000,7300,365,5%,54750,0.05,0.66,10.29
+2/6/2024,West,Bluetooth Speaker,Electronics,Retargeting Campaign,Search Engine,Q1,5050,155000,6200,310,5%,46500,0.04,0.81,8.21
+2/13/2024,East,Resistance Bands,Health & Fitness,New Product Launch,Email,Q1,4950,149000,7450,372,5%,55875,0.05,0.66,10.29
+2/20/2024,West,Yoga Pants,Fashion,Summer Sale Campaign,Direct Mail,Q1,6900,72000,2160,108,5%,27000,0.03,3.19,2.91
+2/27/2024,North,Laptop Stand,Electronics,Search Engine Ads Campaign,Social Media,Q1,4650,141000,5640,282,5%,42300,0.04,0.82,8.1
+3/5/2024,West,Hoodie,Fashion,Social Media Boost Campaign,Email,Q1,5050,152000,7600,380,5%,57000,0.05,0.66,10.29
+3/12/2024,East,Casual T-Shirt,Fashion,Summer Sale Campaign,Search Engine,Q2,5150,158000,6320,316,5%,47400,0.04,0.81,8.2
+3/19/2024,North,Sports Jacket,Fashion,Retargeting Campaign,Email,Q2,5150,155000,7750,388,5%,58125,0.05,0.66,10.29
+3/26/2024,North,Bluetooth Speaker,Electronics,Search Engine Ads Campaign,Direct Mail,Q2,7000,73000,2190,110,5%,27375,0.03,3.2,2.91
+4/2/2024,North,Smart Watch,Electronics,Flash Sale Campaign,Social Media,Q2,4750,144000,5760,288,5%,43200,0.04,0.82,8.09
+4/9/2024,South,Bluetooth Speaker,Electronics,Summer Sale Campaign,Email,Q2,5250,158000,7900,395,5%,59250,0.05,0.66,10.29
+4/16/2024,South,Sports Jacket,Fashion,Summer Sale Campaign,Search Engine,Q2,5250,161000,6440,322,5%,48300,0.04,0.82,8.2
+4/23/2024,South,Gym Gloves,Health & Fitness,Social Media Boost Campaign,Email,Q2,5350,161000,8050,402,5%,60375,0.05,0.66,10.28
+4/30/2024,North,Yoga Mat,Health & Fitness,New Product Launch,Direct Mail,Q2,7100,74000,2220,111,5%,27750,0.03,3.2,2.91
+5/7/2024,South,Resistance Bands,Health & Fitness,Cart Abandonment Campaign,Social Media,Q2,4850,147000,5880,294,5%,44100,0.04,0.82,8.09
+5/14/2024,South,Casual T-Shirt,Fashion,Summer Sale Campaign,Email,Q2,5450,164000,8200,410,5%,61500,0.05,0.66,10.28
+5/21/2024,North,Laptop Stand,Electronics,Email Promotion,Search Engine,Q2,5350,164000,6560,328,5%,49200,0.04,0.82,8.2
+5/28/2024,East,Gaming Mouse,Electronics,Retargeting Campaign,Email,Q2,5550,167000,8350,418,5%,62625,0.05,0.66,10.28
+6/4/2024,West,Laptop Stand,Electronics,Email Promotion,Direct Mail,Q2,7200,75000,2250,112,5%,28125,0.03,3.2,2.91
+6/11/2024,East,Wireless Earbuds,Electronics,Summer Sale Campaign,Social Media,Q2,4950,150000,6000,300,5%,45000,0.04,0.82,8.09
+6/18/2024,North,Yoga Pants,Fashion,Summer Sale Campaign,Email,Q2,5650,170000,8500,425,5%,63750,0.05,0.66,10.28
+6/25/2024,South,Bluetooth Speaker,Electronics,Social Media Boost Campaign,Search Engine,Q3,5450,167000,6680,334,5%,50100,0.04,0.82,8.19
+7/2/2024,North,Mechanical Keyboard,Electronics,New Product Launch,Email,Q3,5750,173000,8650,432,5%,64875,0.05,0.66,10.28
+7/9/2024,South,Hoodie,Fashion,Seasonal Discount Campaign,Direct Mail,Q3,7300,76000,2280,114,5%,28500,0.03,3.2,2.9
+7/16/2024,North,Casual T-Shirt,Fashion,Brand Awareness Campaign,Social Media,Q3,5050,153000,6120,306,5%,45900,0.04,0.82,8.09
+7/23/2024,North,Hoodie,Fashion,New Product Launch,Email,Q3,5850,176000,8800,440,5%,66000,0.05,0.66,10.28
+7/30/2024,East,Running Shoes,Fashion,New Product Launch,Search Engine,Q3,5550,170000,6800,340,5%,51000,0.04,0.82,8.19
+8/6/2024,South,Yoga Pants,Fashion,New Product Launch,Email,Q3,5950,179000,8950,448,5%,67125,0.05,0.66,10.28
+8/13/2024,West,Denim Jeans,Fashion,Search Engine Ads Campaign,Direct Mail,Q3,7400,77000,2310,116,5%,28875,0.03,3.2,2.9
+8/20/2024,South,Laptop Stand,Electronics,Summer Sale Campaign,Social Media,Q3,5150,156000,6240,312,5%,46800,0.04,0.82,8.09
+8/27/2024,North,Sports Jacket,Fashion,Social Media Boost Campaign,Email,Q3,6050,182000,9100,455,5%,68250,0.05,0.66,10.28
+9/3/2024,South,Gaming Mouse,Electronics,Summer Sale Campaign,Search Engine,Q4,5650,173000,6920,346,5%,51900,0.04,0.82,8.19
+9/10/2024,West,Bluetooth Speaker,Electronics,New Product Launch,Email,Q4,6150,185000,9250,462,5%,69375,0.05,0.66,10.28
+9/17/2024,South,Smart Watch,Electronics,Summer Sale Campaign,Direct Mail,Q4,7500,78000,2340,117,5%,29250,0.03,3.21,2.9
+9/24/2024,North,Gym Gloves,Health & Fitness,Retargeting Campaign,Social Media,Q4,5250,159000,6360,318,5%,47700,0.04,0.82,8.09
+10/1/2024,West,Resistance Bands,Health & Fitness,Retargeting Campaign,Email,Q4,6250,188000,9400,470,5%,70500,0.05,0.66,10.28
+10/8/2024,South,Yoga Pants,Fashion,Summer Sale Campaign,Search Engine,Q4,5750,176000,7040,352,5%,52800,0.04,0.82,8.18
+10/15/2024,East,Running Shoes,Fashion,Cart Abandonment Campaign,Email,Q4,6350,191000,9550,478,5%,71625,0.05,0.66,10.28
+10/22/2024,West,Bluetooth Speaker,Electronics,New Product Launch,Direct Mail,Q4,7600,79000,2370,118,5%,29625,0.03,3.21,2.9
+10/29/2024,North,Fitness Tracker,Electronics,Summer Sale Campaign,Social Media,Q4,5350,162000,6480,324,5%,48600,0.04,0.82,8.09
+11/5/2024,East,Multivitamins,Health & Fitness,Social Media Boost Campaign,Email,Q4,6450,194000,9700,485,5%,72750,0.05,0.66,10.28
+11/12/2024,North,Sneakers,Fashion,Retargeting Campaign,Search Engine,Q4,5850,179000,7160,358,5%,53700,0.04,0.82,8.18
+11/19/2024,North,Running Shoes,Fashion,Retargeting Campaign,Email,Q4,6550,197000,9850,492,5%,73875,0.05,0.66,10.28
+11/26/2024,North,Smart Watch,Electronics,Summer Sale Campaign,Direct Mail,Q4,7700,80000,2400,120,5%,30000,0.03,3.21,2.9
+12/3/2024,North,Gaming Mouse,Electronics,Retargeting Campaign,Social Media,Q4,5450,165000,6600,330,5%,49500,0.04,0.82,8.09
+12/10/2024,South,Gym Gloves,Health & Fitness,New Product Launch,Email,Q4,6650,200000,10000,500,5%,75000,0.05,0.67,10.28
+12/17/2024,South,Mechanical Keyboard,Electronics,Retargeting Campaign,Search Engine,Q4,5950,182000,7280,364,5%,54600,0.04,0.82,8.18
+12/24/2024,West,Bluetooth Speaker,Electronics,Search Engine Ads Campaign,Email,Q4,6750,203000,10150,508,5%,76125,0.05,0.66,10.28
+12/31/2024,North,Fitness Tracker,Electronics,Seasonal Discount Campaign,Direct Mail,Q4,7800,81000,2430,122,5%,30375,0.03,3.21,2.89
